@@ -1,0 +1,13 @@
+C:\Users\valde\source\repos\Escuela2\Escuela2\bin\Debug\Escuela2.exe.config
+C:\Users\valde\source\repos\Escuela2\Escuela2\bin\Debug\Escuela2.exe
+C:\Users\valde\source\repos\Escuela2\Escuela2\bin\Debug\Escuela2.pdb
+C:\Users\valde\source\repos\Escuela2\Escuela2\obj\Debug\Escuela2.csprojAssemblyReference.cache
+C:\Users\valde\source\repos\Escuela2\Escuela2\obj\Debug\Escuela2.Properties.Resources.resources
+C:\Users\valde\source\repos\Escuela2\Escuela2\obj\Debug\Escuela2.csproj.GenerateResource.cache
+C:\Users\valde\source\repos\Escuela2\Escuela2\obj\Debug\Escuela2.csproj.CoreCompileInputs.cache
+C:\Users\valde\source\repos\Escuela2\Escuela2\obj\Debug\Escuela2.exe
+C:\Users\valde\source\repos\Escuela2\Escuela2\obj\Debug\Escuela2.pdb
+C:\Users\valde\source\repos\Escuela2\Escuela2\obj\Debug\Escuela2.VentanaCalificaciones.resources
+C:\Users\valde\source\repos\Escuela2\Escuela2\obj\Debug\Escuela2.VentanaInicio.resources
+C:\Users\valde\source\repos\Escuela2\Escuela2\obj\Debug\Escuela2.VentanaMateria.resources
+C:\Users\valde\source\repos\Escuela2\Escuela2\obj\Debug\Escuela2.Alumnos.resources
