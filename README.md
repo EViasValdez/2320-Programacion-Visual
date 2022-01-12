@@ -8,9 +8,9 @@ He aqui varios archivos del cuatrimestre que empezamos de manera virtual.
 
 ## Unidad 1
 ###### Actividad 1
-(Ejercicios/Properties/AssemblyInfo.cs
-Ejercicios/Properties/Resources.Designer.cs
-Ejercicios/Properties/Resources.resx
-Ejercicios/Properties/Settings.Designer.cs
-Ejercicios/Properties/Settings.Designer.cs
+(Ejercicios/Properties/AssemblyInfo.cs, 
+Ejercicios/Properties/Resources.Designer.cs, 
+Ejercicios/Properties/Resources.resx, 
+Ejercicios/Properties/Settings.Designer.cs, 
+Ejercicios/Properties/Settings.Designer.cs, 
 Ejercicios/Porperties/Settings.settings)
