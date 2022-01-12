@@ -61,55 +61,55 @@ Cambox/build.xml,
 Cambox/manifest.mf)
 
 ###### Actividad 3
-Escuela2/Escuela2/Properties/AssemblyInfo.cs
-Escuela2/Escuela2/Properties/Resources.Designer.cs
-Escuela2/Escuela2/Properties/Resources.resx
-Escuela2/Escuela2/Properties/Settings.Designer.cs
-Escuela2/Escuela2/Properties/Settings.settings
-Escuela2/Escuela2/Resources/foto edi 1(4).png
-Escuela2/Escuela2/Resources/logo upt.png
-Escuela2/Escuela2/Resources/logo_estado.png
-Escuela2/Escuela2/Resources/registrarse.png
-Escuela2/Escuela2/bin/Debug/Escuela2.exe
-Escuela2/Escuela2/bin/Debug/Escuela2.exe.config
-Escuela2/Escuela2/bin/Debug/Escuela2.pdb
-Escuela2/Escuela2/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll
-Escuela2/Escuela2/obj/Debug/DesignTimeResolveAssemblyReferences.cache
-Escuela2/Escuela2/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
-Escuela2/Escuela2/obj/Debug/Escuela2.Alumnos.resources
-Escuela2/Escuela2/obj/Debug/Escuela2.Properties.Resources.resources
-Escuela2/Escuela2/obj/Debug/Escuela2.VentanaCalificaciones.resources
-Escuela2/Escuela2/obj/Debug/Escuela2.VentanaInicio.resources
-Escuela2/Escuela2/obj/Debug/Escuela2.VentanaMateria.resources
-Escuela2/Escuela2/obj/Debug/Escuela2.csproj.CoreCompileInputs.cache
-Escuela2/Escuela2/obj/Debug/Escuela2.csproj.FileListAbsolute.txt
-Escuela2/Escuela2/obj/Debug/Escuela2.csproj.GenerateResource.cache
-Escuela2/Escuela2/obj/Debug/Escuela2.csprojAssemblyReference.cache
-Escuela2/Escuela2/obj/Debug/Escuela2.exe
-Escuela2/Escuela2/obj/Debug/Escuela2.pdb
-Escuela2/Escuela2/Alumno.cs
-Escuela2/Escuela2/App.config
-Escuela2/Escuela2/Escuela2.csproj
-Escuela2/Escuela2/Materia.cs
-Escuela2/Escuela2/Program.cs
-Escuela2/Escuela2/VentanaAlumnos.Designer.cs
-Escuela2/Escuela2/VentanaAlumnos.cs
-Escuela2/Escuela2/VentanaAlumnos.resx
-Escuela2/Escuela2/VentanaCalificaciones.Designer.cs
-Escuela2/Escuela2/VentanaCalificaciones.cs
-Escuela2/Escuela2/VentanaCalificaciones.resx
-Escuela2/Escuela2/VentanaInicio.Designer.cs
-Escuela2/Escuela2/VentanaInicio.cs
-Escuela2/Escuela2/VentanaInicio.resx
-Escuela2/Escuela2/VentanaMateria.Designer.cs
-Escuela2/Escuela2/VentanaMateria.cs
-Escuela2/Escuela2/VentanaMateria.resx
-Escuela2/Escuela2.sln
-Escuela2/descarga (4).jpg
-Escuela2/descarga__4__PL4_icon.ico
-Escuela2/foto edi 1(3).png
-Escuela2/foto edi 1(4).png
-Escuela2/logo upt.png
-Escuela2/logo_estado.jpg
-Escuela2/logo_estado.png
-Escuela2/registrarse.png
+(Escuela2/Escuela2/Properties/AssemblyInfo.cs, , 
+Escuela2/Escuela2/Properties/Resources.Designer.cs, 
+Escuela2/Escuela2/Properties/Resources.resx, 
+Escuela2/Escuela2/Properties/Settings.Designer.cs, 
+Escuela2/Escuela2/Properties/Settings.settings, 
+Escuela2/Escuela2/Resources/foto edi 1(4).png, 
+Escuela2/Escuela2/Resources/logo upt.png, 
+Escuela2/Escuela2/Resources/logo_estado.png, 
+Escuela2/Escuela2/Resources/registrarse.png, 
+Escuela2/Escuela2/bin/Debug/Escuela2.exe, 
+Escuela2/Escuela2/bin/Debug/Escuela2.exe.config, 
+Escuela2/Escuela2/bin/Debug/Escuela2.pdb, 
+Escuela2/Escuela2/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll, 
+Escuela2/Escuela2/obj/Debug/DesignTimeResolveAssemblyReferences.cache, 
+Escuela2/Escuela2/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache, 
+Escuela2/Escuela2/obj/Debug/Escuela2.Alumnos.resources, 
+Escuela2/Escuela2/obj/Debug/Escuela2.Properties.Resources.resources, 
+Escuela2/Escuela2/obj/Debug/Escuela2.VentanaCalificaciones.resources, 
+Escuela2/Escuela2/obj/Debug/Escuela2.VentanaInicio.resources, 
+Escuela2/Escuela2/obj/Debug/Escuela2.VentanaMateria.resources, 
+Escuela2/Escuela2/obj/Debug/Escuela2.csproj.CoreCompileInputs.cache, 
+Escuela2/Escuela2/obj/Debug/Escuela2.csproj.FileListAbsolute.txt, 
+Escuela2/Escuela2/obj/Debug/Escuela2.csproj.GenerateResource.cache, 
+Escuela2/Escuela2/obj/Debug/Escuela2.csprojAssemblyReference.cache, 
+Escuela2/Escuela2/obj/Debug/Escuela2.exe, 
+Escuela2/Escuela2/obj/Debug/Escuela2.pdb, 
+Escuela2/Escuela2/Alumno.cs, 
+Escuela2/Escuela2/App.config, 
+Escuela2/Escuela2/Escuela2.csproj, 
+Escuela2/Escuela2/Materia.cs, 
+Escuela2/Escuela2/Program.cs, 
+Escuela2/Escuela2/VentanaAlumnos.Designer.cs, 
+Escuela2/Escuela2/VentanaAlumnos.cs, 
+Escuela2/Escuela2/VentanaAlumnos.resx, 
+Escuela2/Escuela2/VentanaCalificaciones.Designer.cs, 
+Escuela2/Escuela2/VentanaCalificaciones.cs, 
+Escuela2/Escuela2/VentanaCalificaciones.resx, 
+Escuela2/Escuela2/VentanaInicio.Designer.cs, 
+Escuela2/Escuela2/VentanaInicio.cs, 
+Escuela2/Escuela2/VentanaInicio.resx, 
+Escuela2/Escuela2/VentanaMateria.Designer.cs, 
+Escuela2/Escuela2/VentanaMateria.cs, 
+Escuela2/Escuela2/VentanaMateria.resx, 
+Escuela2/Escuela2.sln, 
+Escuela2/descarga (4).jpg, 
+Escuela2/descarga__4__PL4_icon.ico, 
+Escuela2/foto edi 1(3).png, 
+Escuela2/foto edi 1(4).png, 
+Escuela2/logo upt.png, 
+Escuela2/logo_estado.jpg, 
+Escuela2/logo_estado.png, 
+Escuela2/registrarse.png)
