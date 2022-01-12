@@ -14,18 +14,18 @@ Ejercicios/Ejercicios/Properties/Resources.Designer.cs,
 Ejercicios/Ejercicios/Properties/Resources.resx, 
 Ejercicios/Ejercicios/Properties/Settings.Designer.cs, 
 Ejercicios/Ejercicios/Properties/Settings.Designer.cs, 
-Ejercicios/Ejercicios/Porperties/Settings.settings
-Ejercicios/Ejercicios/bin/Debug/Ejercicios.exe
-Ejercicios/Ejercicios/bin/Debug/Ejercicios.exe.config
-Ejercicios/Ejercicios/bin/Debug/Ejercicios.pdb
-Ejercicios/Ejercicios/obj/Debug/DesignTimeResolveAssemblyReferences.cache
-Ejercicios/Ejercicios/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
-Ejercicios/Ejercicios/obj/Debug/Ejercicios.Properties.Resources.resources
-Ejercicios/Ejercicios/obj/Debug/Ejercicios.csproj.CoreCompileInputs.cache
-Ejercicios/Ejercicios/obj/Debug/Ejercicios.csproj.FileListAbsolute.txt
-Ejercicios/Ejercicios/obj/Debug/Ejercicios.csproj.GenerateResource.cache
-Ejercicios/Ejercicios/obj/Debug/Ejercicios.csprojAssemblyReference.cache
-Ejercicios/Ejercicios/obj/Debug/Ejercicios.exe
+Ejercicios/Ejercicios/Porperties/Settings.settings, 
+Ejercicios/Ejercicios/bin/Debug/Ejercicios.exe, 
+Ejercicios/Ejercicios/bin/Debug/Ejercicios.exe.config, 
+Ejercicios/Ejercicios/bin/Debug/Ejercicios.pdb, 
+Ejercicios/Ejercicios/obj/Debug/DesignTimeResolveAssemblyReferences.cache, 
+Ejercicios/Ejercicios/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache, 
+Ejercicios/Ejercicios/obj/Debug/Ejercicios.Properties.Resources.resources, 
+Ejercicios/Ejercicios/obj/Debug/Ejercicios.csproj.CoreCompileInputs.cache, 
+Ejercicios/Ejercicios/obj/Debug/Ejercicios.csproj.FileListAbsolute.txt, 
+Ejercicios/Ejercicios/obj/Debug/Ejercicios.csproj.GenerateResource.cache, 
+Ejercicios/Ejercicios/obj/Debug/Ejercicios.csprojAssemblyReference.cache, 
+Ejercicios/Ejercicios/obj/Debug/Ejercicios.exe, 
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.pdb)
 
 ###### Actividad 2
