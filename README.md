@@ -61,7 +61,7 @@ Cambox/build.xml,
 Cambox/manifest.mf)
 
 ###### Actividad 3
-(Escuela2/Escuela2/Properties/AssemblyInfo.cs, , 
+(Escuela2/Escuela2/Properties/AssemblyInfo.cs, 
 Escuela2/Escuela2/Properties/Resources.Designer.cs, 
 Escuela2/Escuela2/Properties/Resources.resx, 
 Escuela2/Escuela2/Properties/Settings.Designer.cs, 
