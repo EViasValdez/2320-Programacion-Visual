@@ -30,6 +30,41 @@ Ejercicios/Ejercicios/obj/Debug/Ejercicios.exe,
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.pdb)
 
 ###### Actividad 2
+(Combox/build/classes/combox/Checkboxradiobutton$1.class, 
+Combox/build/classes/combox/Checkboxradiobutton$2.class, 
+Combox/build/classes/combox/Checkboxradiobutton$3.class, 
+Combox/build/classes/combox/Checkboxradiobutton$4.class, 
+Combox/build/classes/combox/Checkboxradiobutton$5.class, 
+Combox/build/classes/combox/Checkboxradiobutton.class, 
+Combox/build/classes/combox/Checkboxradiobutton.form, 
+Combox/build/classes/combox/Combox.class, 
+Combox/nbproject/private/private.properties, 
+Combox/nbproject/private/private.xml, 
+Combox/src/combox/Checkboxradiobutton.form, 
+Combox/src/combox/Checkboxradiobutton.java, 
+Combox/src/combox/Combox.java, 
+Combox/build.xml, 
+Combox/manifest.mf)
+
+## Unidad 2
+###### Actividad 3
+(Jpasswordfield/build/classes/jpasswordfield/Jpasswordfield.class, 
+Jpasswordfield/build/classes/jpasswordfield/Jpwf$1.class, 
+Jpasswordfield/build/classes/jpasswordfield/Jpwf$2.class, 
+Jpasswordfield/build/classes/jpasswordfield/Jpwf.class, 
+Jpasswordfield/build/classes/jpasswordfield/Jpwf.form, 
+Jpasswordfield/nbproject/private/private.properties, 
+Jpasswordfield/nbproject/build-impl.xml, 
+Jpasswordfield/nbproject/genfiles.properties, 
+Jpasswordfield/nbproject/project.properties, 
+Jpasswordfield/nbproject/project.xml, 
+Jpasswordfield/src/jpasswordfield/Jpasswordfield.java, 
+Jpasswordfield/src/jpasswordfield/Jpwf.form, 
+Jpasswordfield/src/Jpasswordfield/Jpwf.java, 
+Jpasswordfield/build.xml, 
+Jpasswordfield/manifest.mf)
+
+###### Actividad 4
 (Cambox/build/classes/cambox/Cambox.class, 
 Cambox/build/classes/cambox/VentanaA$1.class, 
 Cambox/build/classes/cambox/VentanaA$2.class, 
@@ -61,7 +96,9 @@ Cambox/src/cambox/VentanaC.java,
 Cambox/build.xml, 
 Cambox/manifest.mf)
 
-###### Actividad 3
+## Unidad 3
+
+###### Actividad 5
 (Escuela2/Escuela2/Properties/AssemblyInfo.cs, 
 Escuela2/Escuela2/Properties/Resources.Designer.cs, 
 Escuela2/Escuela2/Properties/Resources.resx, 
@@ -114,20 +151,3 @@ Escuela2/logo upt.png,
 Escuela2/logo_estado.jpg, 
 Escuela2/logo_estado.png, 
 Escuela2/registrarse.png)
-
-###### Actividad 4
-(Jpasswordfield/build/classes/jpasswordfield/Jpasswordfield.class, 
-Jpasswordfield/build/classes/jpasswordfield/Jpwf$1.class, 
-Jpasswordfield/build/classes/jpasswordfield/Jpwf$2.class, 
-Jpasswordfield/build/classes/jpasswordfield/Jpwf.class, 
-Jpasswordfield/build/classes/jpasswordfield/Jpwf.form, 
-Jpasswordfield/nbproject/private/private.properties, 
-Jpasswordfield/nbproject/build-impl.xml, 
-Jpasswordfield/nbproject/genfiles.properties, 
-Jpasswordfield/nbproject/project.properties, 
-Jpasswordfield/nbproject/project.xml, 
-Jpasswordfield/src/jpasswordfield/Jpasswordfield.java, 
-Jpasswordfield/src/jpasswordfield/Jpwf.form, 
-Jpasswordfield/src/Jpasswordfield/Jpwf.java, 
-Jpasswordfield/build.xml, 
-Jpasswordfield/manifest.mf)
