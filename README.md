@@ -8,7 +8,7 @@ He aqui varios archivos del cuatrimestre que empezamos de manera virtual.
 
 ## Unidad 1
 ###### Actividad 1
-(Ejercicios/Ejercicios.sln, 
+(Ejercicios(carpetas), Ejercicios/Ejercicios.sln, 
 Ejercicios/Ejercicios/Properties/AssemblyInfo.cs, 
 Ejercicios/Ejercicios/Properties/Resources.Designer.cs, 
 Ejercicios/Ejercicios/Properties/Resources.resx, 
