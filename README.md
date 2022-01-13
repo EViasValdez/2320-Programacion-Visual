@@ -1,6 +1,6 @@
 # Programacion visual
 
-He aqui varios archivos del cuatrimestre que empezamos de manera virtual.
+He aqui varios archivos del cuatrimestre que empezamos de manera virtual, mas especificamente de la materia anteriormente mencionada.
 
 **Notas:**
 **El orden de cada ejercicio realizado va junto con sus archivos correspondientes.**
