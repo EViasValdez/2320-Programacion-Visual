@@ -2,7 +2,7 @@
 
 He aqui varios archivos del cuatrimestre que empezamos de manera virtual, mas especificamente de la materia anteriormente mencionada.
 
-## Unidad 1
+## ● Unidad 1 ●
 ###### Actividad 1 - 06/20
 (Ejercicios(carpetas), Ejercicios/Ejercicios.sln, 
 Ejercicios/Ejercicios/Properties/AssemblyInfo.cs, 
@@ -41,7 +41,7 @@ Combox/src/combox/Combox.java,
 Combox/build.xml, 
 Combox/manifest.mf)
 
-## Unidad 2
+## ● Unidad 2 ●
 ###### Actividad 3 - 07/20
 (Jpasswordfield/build/classes/jpasswordfield/Jpasswordfield.class, 
 Jpasswordfield/build/classes/jpasswordfield/Jpwf$1.class, 
@@ -91,7 +91,7 @@ Cambox/src/cambox/VentanaC.java,
 Cambox/build.xml, 
 Cambox/manifest.mf)
 
-## Unidad 3
+## ● Unidad 3 ●
 
 ###### Actividad 5 - 08/20
 (Escuela2/Escuela2/Properties/AssemblyInfo.cs, 
