@@ -2,9 +2,6 @@
 
 He aqui varios archivos del cuatrimestre que empezamos de manera virtual, mas especificamente de la materia anteriormente mencionada.
 
-**Notas:**
-**El orden de cada ejercicio realizado va junto con sus archivos correspondientes.**
-
 ## Unidad 1
 ###### Actividad 1
 (Ejercicios(carpetas), Ejercicios/Ejercicios.sln, 
