@@ -3,7 +3,7 @@
 He aqui varios archivos del cuatrimestre que empezamos de manera virtual, mas especificamente de la materia anteriormente mencionada.
 
 ## Unidad 1
-###### Actividad 1
+###### Actividad 1 - 06/20
 (Ejercicios(carpetas), Ejercicios/Ejercicios.sln, 
 Ejercicios/Ejercicios/Properties/AssemblyInfo.cs, 
 Ejercicios/Ejercicios/Properties/Resources.Designer.cs, 
@@ -24,7 +24,7 @@ Ejercicios/Ejercicios/obj/Debug/Ejercicios.csprojAssemblyReference.cache,
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.exe, 
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.pdb)
 
-###### Actividad 2
+###### Actividad 2 - 06/20
 (Combox/build/classes/combox/Checkboxradiobutton$1.class, 
 Combox/build/classes/combox/Checkboxradiobutton$2.class, 
 Combox/build/classes/combox/Checkboxradiobutton$3.class, 
@@ -42,7 +42,7 @@ Combox/build.xml,
 Combox/manifest.mf)
 
 ## Unidad 2
-###### Actividad 3
+###### Actividad 3 - 07/20
 (Jpasswordfield/build/classes/jpasswordfield/Jpasswordfield.class, 
 Jpasswordfield/build/classes/jpasswordfield/Jpwf$1.class, 
 Jpasswordfield/build/classes/jpasswordfield/Jpwf$2.class, 
@@ -59,7 +59,7 @@ Jpasswordfield/src/Jpasswordfield/Jpwf.java,
 Jpasswordfield/build.xml, 
 Jpasswordfield/manifest.mf)
 
-###### Actividad 4
+###### Actividad 4 - 07/20
 (Cambox/build/classes/cambox/Cambox.class, 
 Cambox/build/classes/cambox/VentanaA$1.class, 
 Cambox/build/classes/cambox/VentanaA$2.class, 
@@ -93,7 +93,7 @@ Cambox/manifest.mf)
 
 ## Unidad 3
 
-###### Actividad 5
+###### Actividad 5 - 08/20
 (Escuela2/Escuela2/Properties/AssemblyInfo.cs, 
 Escuela2/Escuela2/Properties/Resources.Designer.cs, 
 Escuela2/Escuela2/Properties/Resources.resx, 
@@ -147,7 +147,7 @@ Escuela2/logo_estado.jpg,
 Escuela2/logo_estado.png, 
 Escuela2/registrarse.png)
 
-###### Actividad 6
+###### Actividad 6 - 08/20
 (PracticaUsoDeTablas/build/classes/practicausodetablas/PracticaUsoDeTablas.class, 
 PracticaUsoDeTablas/build/classes/practicausodetablas/UsoDeTablasPractica$1.class, 
 PracticaUsoDeTablas/build/classes/practicausodetablas/UsoDeTablasPractica$2.class, 
