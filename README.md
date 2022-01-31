@@ -1,8 +1,9 @@
 # Programacion visual
-
+<!----Descripcion---->
 He aqui varios archivos del cuatrimestre que empezamos de manera virtual, mas especificamente de la materia anteriormente mencionada.
+<!----Separador de la descripcion ---->
 
-<!----Aqui van las notas---->
+<!----Notas---->
 **Notas**
 
 **- Para poder abrir algunos archivos se requiere usar Visual Studio con herramientas de Windows Forms.**
