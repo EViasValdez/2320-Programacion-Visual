@@ -32,6 +32,7 @@ Ejercicios/Ejercicios/obj/Debug/Ejercicios.csproj.GenerateResource.cache,
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.csprojAssemblyReference.cache, 
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.exe, 
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.pdb)
+<!----Separador---->
 ###### Actividad 2 - 06/20
 (Combox/build/classes/combox/Checkboxradiobutton$1.class, 
 Combox/build/classes/combox/Checkboxradiobutton$2.class, 
@@ -66,6 +67,7 @@ Jpasswordfield/src/jpasswordfield/Jpwf.form,
 Jpasswordfield/src/Jpasswordfield/Jpwf.java, 
 Jpasswordfield/build.xml, 
 Jpasswordfield/manifest.mf)
+<!----Separador---->
 ###### Actividad 4 - 07/20
 (Cambox/build/classes/cambox/Cambox.class, 
 Cambox/build/classes/cambox/VentanaA$1.class, 
@@ -152,6 +154,7 @@ Escuela2/logo upt.png,
 Escuela2/logo_estado.jpg, 
 Escuela2/logo_estado.png, 
 Escuela2/registrarse.png)
+<!----Separador---->
 ###### Actividad 6 - 08/20
 (PracticaUsoDeTablas/build/classes/practicausodetablas/PracticaUsoDeTablas.class, 
 PracticaUsoDeTablas/build/classes/practicausodetablas/UsoDeTablasPractica$1.class, 
