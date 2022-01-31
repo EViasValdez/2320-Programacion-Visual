@@ -2,6 +2,14 @@
 
 He aqui varios archivos del cuatrimestre que empezamos de manera virtual, mas especificamente de la materia anteriormente mencionada.
 
+<!----Aqui van las notas---->
+**Notas**
+
+**- Para poder abrir algunos archivos se requiere usar Visual Studio con herramientas de Windows Forms.**
+
+**- A diferencia de otros proyectos que hice esta lista esta incompleta, faltan algunos archivos que se nececitan para su funcionamento correcto.**
+<!----Separador---->
+
 ## ● Unidad 1 ●
 ###### Actividad 1 - 06/20
 (Ejercicios(carpetas), Ejercicios/Ejercicios.sln, 
