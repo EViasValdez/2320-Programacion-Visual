@@ -11,6 +11,8 @@ He aqui varios archivos del cuatrimestre que empezamos de manera virtual, mas es
 **- A diferencia de otros proyectos que hice esta lista esta incompleta, faltan algunos archivos que se nececitan para su funcionamento correcto.**
 <!----Separador---->
 
+<!----Lista de directorios y archivos---->
+# Lista de directorios y archivos
 ## ● Unidad 1 ●
 ###### Actividad 1 - 06/20
 (Ejercicios(carpetas), Ejercicios/Ejercicios.sln, 
@@ -176,3 +178,4 @@ PracticaUsoDeTablas/src/practicausodetablas/UsoDeTablasPractica.form,
 PracticaUsoDeTablas/src/practicausodetablas/UsoDeTablasPractica.java, 
 PracticaUsoDeTablas/build.xml, 
 PracticaUsoDeTablas/manifest.mf)
+<!----Separador de los directorios y archivos---->
