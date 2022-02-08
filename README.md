@@ -9,6 +9,10 @@ He aqui varios archivos del cuatrimestre que empezamos de manera virtual, mas es
 **- Para poder abrir algunos archivos se requiere usar Visual Studio con herramientas de Windows Forms.**
 
 **- A diferencia de otros proyectos que hice esta lista esta incompleta, faltan algunos archivos que se nececitan para su funcionamento correcto.**
+
+**- Pues varios archivos fueron creados por el lenguaje java, un poco complicado de manejar pero estuvo bien utilizarlo.
+
+**- Para hacer funcionar de forma correcta algunos proyectos se nececitan extensiones como jCalendar y MySQL Connector.**
 <!----Separador---->
 
 <!----Lista de directorios y archivos---->
