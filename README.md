@@ -1,7 +1,20 @@
 # Programacion visual
-
+<!----Descripcion---->
 He aqui varios archivos del cuatrimestre que empezamos de manera virtual, mas especificamente de la materia anteriormente mencionada.
+<!----Separador de la descripcion ---->
 
+<!----Notas---->
+**Notas**
+
+**- Para poder abrir algunos archivos se requiere usar Visual Studio con herramientas de Windows Forms.**
+
+**- A diferencia de otros proyectos que hice esta lista esta incompleta, faltan algunos archivos que se nececitan para su funcionamento correcto.**
+
+**- Para hacer funcionar de forma correcta algunos proyectos se nececitan extensiones como jCalendar y MySQL Connector.**
+<!----Separador---->
+
+<!----Lista de directorios y archivos---->
+# Lista de directorios y archivos
 ## ● Unidad 1 ●
 ###### Actividad 1 - 06/20
 (Ejercicios(carpetas), Ejercicios/Ejercicios.sln, 
@@ -23,7 +36,7 @@ Ejercicios/Ejercicios/obj/Debug/Ejercicios.csproj.GenerateResource.cache,
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.csprojAssemblyReference.cache, 
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.exe, 
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.pdb)
-
+<!----Separador---->
 ###### Actividad 2 - 06/20
 (Combox/build/classes/combox/Checkboxradiobutton$1.class, 
 Combox/build/classes/combox/Checkboxradiobutton$2.class, 
@@ -58,7 +71,7 @@ Jpasswordfield/src/jpasswordfield/Jpwf.form,
 Jpasswordfield/src/Jpasswordfield/Jpwf.java, 
 Jpasswordfield/build.xml, 
 Jpasswordfield/manifest.mf)
-
+<!----Separador---->
 ###### Actividad 4 - 07/20
 (Cambox/build/classes/cambox/Cambox.class, 
 Cambox/build/classes/cambox/VentanaA$1.class, 
@@ -92,7 +105,6 @@ Cambox/build.xml,
 Cambox/manifest.mf)
 
 ## ● Unidad 3 ●
-
 ###### Actividad 5 - 08/20
 (Escuela2/Escuela2/Properties/AssemblyInfo.cs, 
 Escuela2/Escuela2/Properties/Resources.Designer.cs, 
@@ -146,7 +158,7 @@ Escuela2/logo upt.png,
 Escuela2/logo_estado.jpg, 
 Escuela2/logo_estado.png, 
 Escuela2/registrarse.png)
-
+<!----Separador---->
 ###### Actividad 6 - 08/20
 (PracticaUsoDeTablas/build/classes/practicausodetablas/PracticaUsoDeTablas.class, 
 PracticaUsoDeTablas/build/classes/practicausodetablas/UsoDeTablasPractica$1.class, 
@@ -168,3 +180,4 @@ PracticaUsoDeTablas/src/practicausodetablas/UsoDeTablasPractica.form,
 PracticaUsoDeTablas/src/practicausodetablas/UsoDeTablasPractica.java, 
 PracticaUsoDeTablas/build.xml, 
 PracticaUsoDeTablas/manifest.mf)
+<!----Separador de los directorios y archivos---->
