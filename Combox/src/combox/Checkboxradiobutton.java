@@ -264,11 +264,12 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
         );
 
         pack();
-    }// </editor-fold>//GEN-END:initComponents
+    }// </editor-fold>
+    // GEN-END:initComponents
 
     private void chkManzanaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_chkManzanaActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_chkManzanaActionPerformed
+    }// GEN-LAST:event_chkManzanaActionPerformed
 
     private void etiOrdenActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_etiOrdenActionPerformed
         // TODO add your handling code here:
@@ -303,11 +304,11 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
         mensaje=mensaje+ "Tamaño: Grande ";
         }
         Mostrar.setText(mensaje);
-    }//GEN-LAST:event_etiOrdenActionPerformed
+    }// GEN-LAST:event_etiOrdenActionPerformed
 
     private void radChicoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_radChicoActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_radChicoActionPerformed
+    }// GEN-LAST:event_radChicoActionPerformed
 
     private void etiOrden1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_etiOrden1ActionPerformed
         // TODO add your handling code here:
@@ -341,14 +342,14 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
         }
         
         Mostrar.setText(mensaje);
-    }//GEN-LAST:event_etiOrden1ActionPerformed
+    }// GEN-LAST:event_etiOrden1ActionPerformed
 
     /**
      * @param args the command line arguments
      */
     public static void main(String args[]) {
         /* Set the Nimbus look and feel */
-        //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
+        // <editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
         /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
          * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
          */
@@ -368,8 +369,8 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
             java.util.logging.Logger.getLogger(Checkboxradiobutton.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
-        //</editor-fold>
-        //</editor-fold>
+        // </editor-fold>
+        // </editor-fold>
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
@@ -379,7 +380,8 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
         });
     }
     
-    // Variables declaration - do not modify//GEN-BEGIN:variables
+    // Variables declaration - do not modify
+    // GEN-BEGIN:variables
     private javax.swing.JLabel Mostrar;
     private javax.swing.JCheckBox chkDurazno;
     private javax.swing.JCheckBox chkFresa;
@@ -399,5 +401,6 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
     private javax.swing.JRadioButton radChico;
     private javax.swing.JRadioButton radGrande;
     private javax.swing.JRadioButton radMediano;
-    // End of variables declaration//GEN-END:variables
+    // End of variables declaration
+    // GEN-END:variables
 }
