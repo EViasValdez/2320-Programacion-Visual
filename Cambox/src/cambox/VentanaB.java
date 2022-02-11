@@ -114,11 +114,12 @@ public class VentanaB extends javax.swing.JFrame {
         );
 
         pack();
-    }// </editor-fold>//GEN-END:initComponents
+    }// </editor-fold>
+    // GEN-END:initComponents
 
     private void CuadroNombreKeyTyped(java.awt.event.KeyEvent evt) {// GEN-FIRST:event_CuadroNombreKeyTyped
         // TODO add your handling code here:
-        char validar=evt.getKeyChar();
+        char validar = evt.getKeyChar();
         
         if (Character.isDigit(validar)){
             getToolkit().beep();
@@ -130,7 +131,7 @@ public class VentanaB extends javax.swing.JFrame {
 
     private void btnIngresarActionPerformed(java.awt.event.ActionEvent evt) {// GEN-FIRST:event_btnIngresarActionPerformed
         // TODO add your handling code here:
-        String add=CuadroNombre.getText();
+        String add = CuadroNombre.getText();
         agregar.addElement(add);
     }// GEN-LAST:event_btnIngresarActionPerformed
 

@@ -24,39 +24,6 @@ namespace Escuela2
             materia.hora = int.Parse(cbhoras.SelectedItem.ToString());
             materia.cred = int.Parse(cbcreditos.SelectedItem.ToString());
         }
-        private void txbxidmateria_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-        private void cbcreditos_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txbxmateria_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-        private void cbhoras_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-        private void btonsiguiente_Click(object sender, EventArgs e)
-        {
-
-        }
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-        private void VentanaMateria_Load(object sender, EventArgs e)
-        {
-
-        }
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
         private void btonsiguiente_Click_1(object sender, EventArgs e)
         {
             VentanaCalificaciones Calif = new VentanaCalificaciones();
@@ -89,10 +56,6 @@ namespace Escuela2
             dgvinfo.Rows[numerofila].Cells[1].Value = materia.mater;
             dgvinfo.Rows[numerofila].Cells[2].Value = materia.hora;
             dgvinfo.Rows[numerofila].Cells[3].Value = materia.cred;
-        }
-        private void txbxidmateria_TextChanged_1(object sender, EventArgs e)
-        {
-
         }
     }
 }

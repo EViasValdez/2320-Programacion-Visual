@@ -34,9 +34,5 @@ namespace Escuela2
                 MessageBox.Show("Contraseña Incorrecta, por favor intente de nuevo");
             }
         }
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

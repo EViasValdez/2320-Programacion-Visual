@@ -226,12 +226,12 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
 
     private void EnviarActionPerformed(java.awt.event.ActionEvent evt) {// GEN-FIRST:event_EnviarActionPerformed
         // TODO add your handling code here:
-        String []Datos = new String[3];
-        Datos[0] = Nombres.getText();
+        String [] Datos = new String [3];
+        Datos [0] = Nombres.getText();
         Enviar.setText(null);
-        Datos[1] = Apellidos.getText();
+        Datos [1] = Apellidos.getText();
         Apellidos.setText(null);
-        Datos[2] = Telefonos.getText();
+        Datos [2] = Telefonos.getText();
         Telefonos.setText(null);
         modelo.addRow(Datos);
     }// GEN-LAST:event_EnviarActionPerformed
@@ -239,7 +239,7 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
     private void EliminarActionPerformed(java.awt.event.ActionEvent evt) {// GEN-FIRST:event_EliminarActionPerformed
         // TODO add your handling code here:
         int filaselecta = Tabla.getSelectedRow();
-        if (filaselecta>=0){
+        if (filaselecta >= 0){
             modelo.removeRow(filaselecta);
         }
         else{

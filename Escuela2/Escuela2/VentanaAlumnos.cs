@@ -18,10 +18,6 @@ namespace Escuela2
             InitializeComponent();
         }
 
-        private void VentanaAlumnos_Load(object sender, EventArgs e)
-        {
-
-        }
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
             if ((e.KeyChar >= 32 && e.KeyChar <= 47) || (e.KeyChar >= 58 && e.KeyChar <= 255))
@@ -53,6 +49,7 @@ namespace Escuela2
             if (masc.Checked == true)
                 alumno.entid = entidad.Items.ToString();
         }
+
         public void limpiar()
         {
             nombre.Text = null;
@@ -63,26 +60,12 @@ namespace Escuela2
             entidad.SelectedIndex = 0;
         }
 
-        private void textBox3_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-        }
-
         private void ingresar_Click_1(object sender, EventArgs e)
         {
             ingresar();
             MessageBox.Show("El alumno fue registrado");
             Datos.Text = alumno.ToString();
             limpiar();
-        }
-
-        private void matricula_TextChanged(object sender, EventArgs e)
-        {
-
         }
 
         private void button1_Click(object sender, EventArgs e)
