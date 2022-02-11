@@ -132,25 +132,25 @@ public class VentanaC extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {// GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
-        double Num1=Double.parseDouble(Numero1.getText());
-        double Num2=Double.parseDouble(Numero2.getText());
+        double Num1 = Double.parseDouble(Numero1.getText());
+        double Num2 = Double.parseDouble(Numero2.getText());
         String operacion=Operaciones.getSelectedItem().toString();
-        int oper=Operaciones.getSelectedIndex();
-        if (oper==0){
+        int oper = Operaciones.getSelectedIndex();
+        if (oper == 0){
             Resultado.setText(String.valueOf(Num1+Num2));
         }
         else{
-        if (oper==1){
+        if (oper == 1){
             Resultado.setText(String.valueOf(Num1-Num2));
         }
         else{
-        if (oper==2){
+        if (oper == 2){
             Resultado.setText(String.valueOf(Num1*Num2));
         }
         else{
-            if (oper==3){
+        if (oper == 3){
             Resultado.setText(String.valueOf(Num1/Num2));    
-            }
+        }
         }
         }
         }
