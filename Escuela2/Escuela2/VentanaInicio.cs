@@ -17,12 +17,10 @@ namespace Escuela2
         {
             InitializeComponent();
         }
-
         private void Inicio_Load(object sender, EventArgs e)
         {
 
         }
-
         private void button1_Click(object sender, EventArgs e)
         {
             if (tbxusuario.Text.Equals("Usuario") && txbcontraseña.Text == ("1234"))
@@ -36,7 +34,6 @@ namespace Escuela2
                 MessageBox.Show("Contraseña Incorrecta, por favor intente de nuevo");
             }
         }
-
         private void pictureBox1_Click(object sender, EventArgs e)
         {
 

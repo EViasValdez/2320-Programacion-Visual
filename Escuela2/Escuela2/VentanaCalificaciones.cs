@@ -17,29 +17,24 @@ namespace Escuela2
         {
             InitializeComponent();
         }
-
         private void button1_Click(object sender, EventArgs e)
         {
             Alumnos calif = new Alumnos();
             calif.Show();
             this.Dispose();
         }
-
         private void pictureBox1_Click(object sender, EventArgs e)
         {
 
         }
-
         private void txbalumno_TextChanged(object sender, EventArgs e)
         {
 
         }
-
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
 
         }
-
         private void button2_Click(object sender, EventArgs e)
         {
             int numerodelafila = dgvinfo2.Rows.Add();
@@ -48,7 +43,6 @@ namespace Escuela2
             dgvinfo2.Rows[numerodelafila].Cells[1].Value = materia2.id;
             dgvinfo2.Rows[numerodelafila].Cells[2].Value = materia2.id;
         }
-
         private void Mostrar_Click(object sender, EventArgs e)
         {
 

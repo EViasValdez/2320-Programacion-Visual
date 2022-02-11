@@ -17,7 +17,6 @@ namespace Escuela2
         {
             InitializeComponent();
         }
-
         public void enlazar_clase()
         {
             materia.id = int.Parse(txbxidmateria.Text);
@@ -25,55 +24,45 @@ namespace Escuela2
             materia.hora = int.Parse(cbhoras.SelectedItem.ToString());
             materia.cred = int.Parse(cbcreditos.SelectedItem.ToString());
         }
-
         private void txbxidmateria_TextChanged(object sender, EventArgs e)
         {
 
         }
-
         private void cbcreditos_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }
 
-
         private void txbxmateria_TextChanged(object sender, EventArgs e)
         {
 
         }
-
         private void cbhoras_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }
-
         private void btonsiguiente_Click(object sender, EventArgs e)
         {
 
         }
-
         private void label1_Click(object sender, EventArgs e)
         {
 
         }
-
         private void VentanaMateria_Load(object sender, EventArgs e)
         {
 
         }
-
         private void label2_Click(object sender, EventArgs e)
         {
 
         }
-
         private void btonsiguiente_Click_1(object sender, EventArgs e)
         {
             VentanaCalificaciones Calif = new VentanaCalificaciones();
             Calif.Show();
             this.Dispose();
         }
-
         private void btnregistrar_Click(object sender, EventArgs e)
         {
             if (txbxidmateria.Text.Equals("") && txbmateria.Text.Equals(""))
@@ -92,7 +81,6 @@ namespace Escuela2
                 cbcreditos.Text = " ";
             }
         }
-
         private void btondatos_Click_1(object sender, EventArgs e)
         {
             int numerofila = dgvinfo.Rows.Add();
@@ -102,7 +90,6 @@ namespace Escuela2
             dgvinfo.Rows[numerofila].Cells[2].Value = materia.hora;
             dgvinfo.Rows[numerofila].Cells[3].Value = materia.cred;
         }
-
         private void txbxidmateria_TextChanged_1(object sender, EventArgs e)
         {
 
