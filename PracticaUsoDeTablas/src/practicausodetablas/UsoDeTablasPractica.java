@@ -36,7 +36,6 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code"> 
     // GEN-BEGIN:initComponents
     private void initComponents() {
-
         jTextField1 = new javax.swing.JTextField();
         jLabel1 = new javax.swing.JLabel();
         Nombres = new javax.swing.JTextField();
@@ -222,9 +221,10 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
         );
 
         pack();
-    }// </editor-fold>//GEN-END:initComponents
+    }// </editor-fold>
+    // GEN-END:initComponents
 
-    private void EnviarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_EnviarActionPerformed
+    private void EnviarActionPerformed(java.awt.event.ActionEvent evt) {// GEN-FIRST:event_EnviarActionPerformed
         // TODO add your handling code here:
         String []Datos = new String[3];
         Datos[0] = Nombres.getText();
@@ -250,8 +250,8 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
     private void EliminarTodoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_EliminarTodoActionPerformed
         // TODO add your handling code here:
         int cantidadfilas = Tabla.getRowCount();
-        for (int i=cantidadfilas-1;i>=0;i++){
-        modelo.removeRow(i);
+        for (int i = cantidadfilas - 1; i >= 0; i++){
+            modelo.removeRow(i);
         }
     }// GEN-LAST:event_EliminarTodoActionPerformed
 
