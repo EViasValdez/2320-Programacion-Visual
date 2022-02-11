@@ -79,7 +79,7 @@ public class VentanaA extends javax.swing.JFrame {
     private void SeleccionActionPerformed(java.awt.event.ActionEvent evt) {// GEN-FIRST:event_SeleccionActionPerformed
         // TODO add your handling code here:
         
-            if(Seleccion.getSelectedItem()=="Texto"){
+            if (Seleccion.getSelectedItem()=="Texto"){
                 VentanaB abrir=new VentanaB();
                abrir.setVisible(true);
             }
@@ -114,8 +114,8 @@ public class VentanaA extends javax.swing.JFrame {
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
             java.util.logging.Logger.getLogger(VentanaA.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
-        //</editor-fold>
-        //</editor-fold>
+        // </editor-fold>
+        // </editor-fold>
         
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {

@@ -33,7 +33,6 @@ public class VentanaB extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">
     // GEN-BEGIN:initComponents
     private void initComponents() {
-
         jLabel1 = new javax.swing.JLabel();
         Nombre = new javax.swing.JLabel();
         CuadroNombre = new javax.swing.JTextField();
@@ -133,7 +132,7 @@ public class VentanaB extends javax.swing.JFrame {
         // TODO add your handling code here:
         String add=CuadroNombre.getText();
         agregar.addElement(add);
-    }//GEN-LAST:event_btnIngresarActionPerformed
+    }// GEN-LAST:event_btnIngresarActionPerformed
 
     /**
      * @param args the command line arguments
@@ -160,7 +159,7 @@ public class VentanaB extends javax.swing.JFrame {
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
             java.util.logging.Logger.getLogger(VentanaB.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
-        //</editor-fold>
+        // </editor-fold>
 
 
         
