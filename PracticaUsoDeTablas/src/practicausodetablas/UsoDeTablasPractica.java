@@ -234,7 +234,7 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
         Datos[2] = Telefonos.getText();
         Telefonos.setText(null);
         modelo.addRow(Datos);
-    }//GEN-LAST:event_EnviarActionPerformed
+    }// GEN-LAST:event_EnviarActionPerformed
 
     private void EliminarActionPerformed(java.awt.event.ActionEvent evt) {// GEN-FIRST:event_EliminarActionPerformed
         // TODO add your handling code here:

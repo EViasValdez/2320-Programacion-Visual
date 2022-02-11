@@ -87,14 +87,14 @@ public class VentanaA extends javax.swing.JFrame {
                 VentanaC abrir=new VentanaC();
                abrir.setVisible(true);
             }
-    }//GEN-LAST:event_SeleccionActionPerformed
+    }// GEN-LAST:event_SeleccionActionPerformed
 
     /**
      * @param args the command line arguments
      */
     public static void main(String args[]) {
         /* Set the Nimbus look and feel */
-        //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
+        // <editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
         /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
          * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
          */
