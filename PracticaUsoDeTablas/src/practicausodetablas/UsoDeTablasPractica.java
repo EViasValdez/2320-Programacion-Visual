@@ -238,7 +238,7 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
     private void EliminarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_EliminarActionPerformed
         // TODO add your handling code here:
         int filaselecta = Tabla.getSelectedRow();
-        if (filaselecta>=0){
+        if (filaselecta >= 0){
             modelo.removeRow(filaselecta);
         }
         else{
@@ -249,7 +249,7 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
     private void EliminarTodoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_EliminarTodoActionPerformed
         // TODO add your handling code here:
         int cantidadfilas = Tabla.getRowCount();
-        for (int i=cantidadfilas-1;i>=0;i++){
+        for (int i = cantidadfilas-1; i >= 0; i++){
         modelo.removeRow(i);
         }
     }//GEN-LAST:event_EliminarTodoActionPerformed
