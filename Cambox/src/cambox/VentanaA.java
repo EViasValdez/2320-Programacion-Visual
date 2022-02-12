@@ -77,12 +77,12 @@ public class VentanaA extends javax.swing.JFrame {
     private void SeleccionActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_SeleccionActionPerformed
         // TODO add your handling code here:
 
-            if(Seleccion.getSelectedItem()=="Texto"){
-                VentanaB abrir=new VentanaB();
+            if (Seleccion.getSelectedItem() == "Texto"){
+                VentanaB abrir = new VentanaB();
                abrir.setVisible(true);
             }
-            if (Seleccion.getSelectedItem()=="Numero"){
-                VentanaC abrir=new VentanaC();
+            if (Seleccion.getSelectedItem() == "Numero"){
+                VentanaC abrir = new VentanaC();
                abrir.setVisible(true);
             }
     }//GEN-LAST:event_SeleccionActionPerformed

@@ -109,12 +109,12 @@ public class Jpwf extends javax.swing.JFrame {
         String contraseña = Campocontraseña.getText();
 
         if (usuario.isEmpty() || contraseña.isEmpty()){
-        JOptionPane.showMessageDialog(null, "Ingese una contraseña correcta");
+            JOptionPane.showMessageDialog(null, "Ingese una contraseña correcta");
         }
         else{
         if (usuario.equals("JoValdez") && contraseña.equals("rs96"))
         {
-        JOptionPane.showMessageDialog(null, "Sea usted bienvenido");
+            JOptionPane.showMessageDialog(null, "Sea usted bienvenido");
         }
         }
     }//GEN-LAST:event_IngresarActionPerformed

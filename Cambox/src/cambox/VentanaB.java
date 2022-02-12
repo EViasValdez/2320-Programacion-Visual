@@ -118,7 +118,7 @@ public class VentanaB extends javax.swing.JFrame {
 
     private void CuadroNombreKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_CuadroNombreKeyTyped
         // TODO add your handling code here:
-        char validar=evt.getKeyChar();
+        char validar = evt.getKeyChar();
 
         if (Character.isDigit(validar)){
             getToolkit().beep();

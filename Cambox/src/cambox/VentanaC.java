@@ -143,13 +143,13 @@ public class VentanaC extends javax.swing.JFrame {
             Resultado.setText(String.valueOf(Num1-Num2));
         }
         else{
-        if (oper==2){
+        if (oper == 2){
             Resultado.setText(String.valueOf(Num1*Num2));
         }
         else{
-            if (oper==3){
+        if (oper == 3){
             Resultado.setText(String.valueOf(Num1/Num2));    
-            }
+        }
         }
         }
         }
