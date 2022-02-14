@@ -119,7 +119,7 @@ public class VentanaC extends javax.swing.JFrame {
 
     private void Numero1KeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_Numero1KeyTyped
         // TODO add your handling code here:
-        char validar=evt.getKeyChar();
+        char validar = evt.getKeyChar();
 
         if (Character.isLetter(validar)){
             getToolkit().beep();
@@ -135,11 +135,11 @@ public class VentanaC extends javax.swing.JFrame {
         double Num2=Double.parseDouble(Numero2.getText());
         String operacion=Operaciones.getSelectedItem().toString();
         int oper=Operaciones.getSelectedIndex();
-        if (oper==0){
+        if (oper == 0){
             Resultado.setText(String.valueOf(Num1+Num2));
         }
         else{
-        if (oper==1){
+        if (oper == 1){
             Resultado.setText(String.valueOf(Num1-Num2));
         }
         else{

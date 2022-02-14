@@ -130,7 +130,7 @@ public class VentanaB extends javax.swing.JFrame {
 
     private void btnIngresarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnIngresarActionPerformed
         // TODO add your handling code here:
-        String add=CuadroNombre.getText();
+        String add = CuadroNombre.getText();
         agregar.addElement(add);
     }//GEN-LAST:event_btnIngresarActionPerformed
 

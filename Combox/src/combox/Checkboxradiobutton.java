@@ -329,15 +329,15 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
         }
         if (radChico.isSelected())
         {
-        mensaje = mensaje + "  ";
+            mensaje = mensaje + "  ";
         }
         if (radMediano.isSelected())
         {
-        mensaje = mensaje + "  ";
+            mensaje = mensaje + "  ";
         }
         if (radGrande.isSelected())
         {
-        mensaje = mensaje + "  ";
+            mensaje = mensaje + "  ";
         }
 
         Mostrar.setText(mensaje);

@@ -242,7 +242,7 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
             modelo.removeRow(filaselecta);
         }
         else{
-        JOptionPane.showMessageDialog(null, "Tabla vacia o no selecciono ninguna fila");
+            JOptionPane.showMessageDialog(null, "Tabla vacia o no selecciono ninguna fila");
         }
     }//GEN-LAST:event_EliminarActionPerformed
 
@@ -250,7 +250,7 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
         // TODO add your handling code here:
         int cantidadfilas = Tabla.getRowCount();
         for (int i = cantidadfilas-1; i >= 0; i++){
-        modelo.removeRow(i);
+            modelo.removeRow(i);
         }
     }//GEN-LAST:event_EliminarTodoActionPerformed
 
