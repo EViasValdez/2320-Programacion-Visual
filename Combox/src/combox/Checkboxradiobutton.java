@@ -27,7 +27,7 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        label1 = new java.awt.Label();
+        jPanel3 = new javax.swing.JPanel();
         jPanel1 = new javax.swing.JPanel();
         jLabel1 = new javax.swing.JLabel();
         chkManzana = new javax.swing.JCheckBox();
@@ -36,6 +36,7 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
         chkPiña = new javax.swing.JCheckBox();
         chkPapaya = new javax.swing.JCheckBox();
         chkMelon = new javax.swing.JCheckBox();
+        label1 = new java.awt.Label();
         jPanel2 = new javax.swing.JPanel();
         jLabel2 = new javax.swing.JLabel();
         radChico = new javax.swing.JRadioButton();
@@ -50,18 +51,18 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setForeground(new java.awt.Color(255, 255, 255));
 
-        label1.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
-        label1.setFont(new java.awt.Font("Corbel", 1, 28)); // NOI18N
-        label1.setText("Orden de coctel de frutas");
+        jPanel3.setBackground(new java.awt.Color(247, 240, 0));
 
-        jPanel1.setBackground(new java.awt.Color(177, 255, 198));
+        jPanel1.setBackground(new java.awt.Color(0, 124, 0));
         jPanel1.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
-        jLabel1.setFont(new java.awt.Font("Bell MT", 1, 12)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Dialog", 1, 12)); // NOI18N
+        jLabel1.setForeground(new java.awt.Color(255, 255, 255));
         jLabel1.setText("Elige tus frutas");
 
-        chkManzana.setBackground(new java.awt.Color(177, 255, 198));
+        chkManzana.setBackground(new java.awt.Color(0, 124, 0));
         chkManzana.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        chkManzana.setForeground(new java.awt.Color(255, 255, 255));
         chkManzana.setText("Manzana");
         chkManzana.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -69,24 +70,29 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
             }
         });
 
-        chkFresa.setBackground(new java.awt.Color(177, 255, 198));
+        chkFresa.setBackground(new java.awt.Color(0, 124, 0));
         chkFresa.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        chkFresa.setForeground(new java.awt.Color(255, 255, 255));
         chkFresa.setText("Fresa");
 
-        chkDurazno.setBackground(new java.awt.Color(177, 255, 198));
+        chkDurazno.setBackground(new java.awt.Color(0, 124, 0));
         chkDurazno.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        chkDurazno.setForeground(new java.awt.Color(255, 255, 255));
         chkDurazno.setText("Durazno");
 
-        chkPiña.setBackground(new java.awt.Color(177, 255, 198));
+        chkPiña.setBackground(new java.awt.Color(0, 124, 0));
         chkPiña.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        chkPiña.setForeground(new java.awt.Color(255, 255, 255));
         chkPiña.setText("Piña");
 
-        chkPapaya.setBackground(new java.awt.Color(177, 255, 198));
+        chkPapaya.setBackground(new java.awt.Color(0, 124, 0));
         chkPapaya.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        chkPapaya.setForeground(new java.awt.Color(255, 255, 255));
         chkPapaya.setText("Papaya");
 
-        chkMelon.setBackground(new java.awt.Color(177, 255, 198));
+        chkMelon.setBackground(new java.awt.Color(0, 124, 0));
         chkMelon.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        chkMelon.setForeground(new java.awt.Color(255, 255, 255));
         chkMelon.setText("Melon");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
@@ -107,7 +113,7 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
                             .addComponent(chkPapaya)
                             .addComponent(chkPiña)
                             .addComponent(chkMelon))))
-                .addContainerGap(64, Short.MAX_VALUE))
+                .addContainerGap(112, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -126,16 +132,22 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(chkDurazno)
                     .addComponent(chkMelon))
-                .addContainerGap(16, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
-        jPanel2.setBackground(new java.awt.Color(190, 255, 255));
+        label1.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        label1.setFont(new java.awt.Font("Gadugi", 1, 28)); // NOI18N
+        label1.setText("Orden de coctel de frutas");
+
+        jPanel2.setBackground(new java.awt.Color(9, 0, 168));
         jPanel2.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
-        jLabel2.setFont(new java.awt.Font("Bell MT", 1, 12)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Dialog", 1, 12)); // NOI18N
+        jLabel2.setForeground(new java.awt.Color(255, 255, 255));
         jLabel2.setText("Elige el tamaño");
 
-        radChico.setBackground(new java.awt.Color(190, 255, 255));
+        radChico.setBackground(new java.awt.Color(9, 0, 168));
+        radChico.setForeground(new java.awt.Color(255, 255, 255));
         radChico.setText("Chico");
         radChico.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -143,10 +155,12 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
             }
         });
 
-        radMediano.setBackground(new java.awt.Color(190, 255, 255));
+        radMediano.setBackground(new java.awt.Color(9, 0, 168));
+        radMediano.setForeground(new java.awt.Color(255, 255, 255));
         radMediano.setText("Mediano");
 
-        radGrande.setBackground(new java.awt.Color(190, 255, 255));
+        radGrande.setBackground(new java.awt.Color(9, 0, 168));
+        radGrande.setForeground(new java.awt.Color(255, 255, 255));
         radGrande.setText("Grande");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
@@ -160,7 +174,7 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
                     .addComponent(radMediano)
                     .addComponent(jLabel2)
                     .addComponent(radChico))
-                .addContainerGap(105, Short.MAX_VALUE))
+                .addContainerGap(178, Short.MAX_VALUE))
         );
         jPanel2Layout.setVerticalGroup(
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -173,15 +187,19 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
                 .addComponent(radMediano)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(radGrande)
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap(16, Short.MAX_VALUE))
         );
 
-        jPanel5.setBackground(new java.awt.Color(255, 204, 204));
+        jPanel5.setBackground(new java.awt.Color(198, 0, 0));
         jPanel5.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
-        label2.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
+        label2.setFont(new java.awt.Font("Dialog", 1, 12)); // NOI18N
+        label2.setForeground(new java.awt.Color(240, 240, 240));
         label2.setText("Asi va su orden");
 
+        etiOrden.setBackground(new java.awt.Color(198, 0, 0));
+        etiOrden.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        etiOrden.setForeground(new java.awt.Color(255, 255, 255));
         etiOrden.setText("Generar orden");
         etiOrden.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -189,6 +207,9 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
             }
         });
 
+        etiOrden1.setBackground(new java.awt.Color(198, 0, 0));
+        etiOrden1.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        etiOrden1.setForeground(new java.awt.Color(255, 255, 255));
         etiOrden1.setText("Limpiar orden");
         etiOrden1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -196,7 +217,9 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
             }
         });
 
+        Mostrar.setBackground(new java.awt.Color(198, 0, 0));
         Mostrar.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        Mostrar.setForeground(new java.awt.Color(255, 255, 255));
         Mostrar.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
         javax.swing.GroupLayout jPanel5Layout = new javax.swing.GroupLayout(jPanel5);
@@ -208,9 +231,9 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
                 .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jPanel5Layout.createSequentialGroup()
                         .addComponent(label2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(0, 375, Short.MAX_VALUE))
+                        .addGap(0, 0, Short.MAX_VALUE))
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel5Layout.createSequentialGroup()
-                        .addGap(0, 0, Short.MAX_VALUE)
+                        .addGap(0, 379, Short.MAX_VALUE)
                         .addComponent(etiOrden1)
                         .addGap(5, 5, 5)
                         .addComponent(etiOrden))
@@ -231,36 +254,50 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
                 .addContainerGap())
         );
 
+        javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
+        jPanel3.setLayout(jPanel3Layout);
+        jPanel3Layout.setHorizontalGroup(
+            jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel3Layout.createSequentialGroup()
+                .addGap(0, 27, Short.MAX_VALUE)
+                .addGroup(jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel3Layout.createSequentialGroup()
+                        .addGroup(jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
+                            .addGroup(jPanel3Layout.createSequentialGroup()
+                                .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                                .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                            .addComponent(jPanel5, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addGap(23, 23, 23))
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel3Layout.createSequentialGroup()
+                        .addComponent(label1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGap(166, 166, 166))))
+        );
+        jPanel3Layout.setVerticalGroup(
+            jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel3Layout.createSequentialGroup()
+                .addGap(27, 27, 27)
+                .addComponent(label1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(32, 32, 32)
+                .addGroup(jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                    .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(18, 18, 18)
+                .addComponent(jPanel5, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(31, Short.MAX_VALUE))
+        );
+
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addGap(40, 40, 40)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(jPanel5, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addGroup(layout.createSequentialGroup()
-                        .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                        .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                .addGap(57, 57, 57))
             .addGroup(layout.createSequentialGroup()
-                .addGap(130, 130, 130)
-                .addComponent(label1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(156, Short.MAX_VALUE))
+                .addComponent(jPanel3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(layout.createSequentialGroup()
-                .addGap(22, 22, 22)
-                .addComponent(label1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jPanel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-                .addGap(18, 18, 18)
-                .addComponent(jPanel5, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(58, Short.MAX_VALUE))
+            .addComponent(jPanel3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
         );
 
         pack();
@@ -393,6 +430,7 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel2;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel2;
+    private javax.swing.JPanel jPanel3;
     private javax.swing.JPanel jPanel5;
     private java.awt.Label label1;
     private java.awt.Label label2;
