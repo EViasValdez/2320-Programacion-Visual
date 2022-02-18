@@ -319,7 +319,6 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
         }
         if (chkFresa.isSelected()){
             mensaje = mensaje + " Fresa ";
-
         }
         if (chkPapaya.isSelected()){
             mensaje = mensaje + " Papaya ";
