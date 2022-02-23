@@ -15,8 +15,8 @@ He aqui varios archivos del cuatrimestre que empezamos de manera virtual, mas es
 **- Quiza una que otra cosa se agregue debido a que tuve que probar que las aplicaciones.**
 <!----Separador---->
 
-<!----Lista de directorios y archivos---->
-# Lista de directorios y archivos
+<!----Directorio de archivos---->
+# Directorio de archivos
 ## ● Unidad 1 ●
 ###### Actividad 1 - 06/20
 (Ejercicios(carpetas), Ejercicios/Ejercicios.sln, 
