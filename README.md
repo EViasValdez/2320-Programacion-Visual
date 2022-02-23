@@ -15,7 +15,7 @@ He aqui varios archivos del cuatrimestre que empezamos de manera virtual, mas es
 **- Quiza una que otra cosa se agregue debido a que tuve que probar que las aplicaciones.**
 <!----Separador---->
 
-<!----Directorio de archivos---->
+<!----Directorio con ubicacion de archivos---->
 # Directorio de archivos
 ## ● Unidad 1 ●
 ###### Actividad 1 - 06/20
@@ -182,4 +182,4 @@ PracticaUsoDeTablas/src/practicausodetablas/UsoDeTablasPractica.form,
 PracticaUsoDeTablas/src/practicausodetablas/UsoDeTablasPractica.java, 
 PracticaUsoDeTablas/build.xml, 
 PracticaUsoDeTablas/manifest.mf)
-<!----Separador de los directorios y archivos---->
+<!----Separador del direrctorio con ubicacion de archivos---->
