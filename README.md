@@ -1,20 +1,22 @@
 # Programacion visual
 <!----Descripcion---->
-He aqui varios archivos del cuatrimestre que empezamos de manera virtual, mas especificamente de la materia anteriormente mencionada.
+He aqui varios archivos del cuatrimestre que empezamos de manera virtual, mas especificamente de la materia anteriormente mencionada bajo el uso del motor de ventanas java swing, tuve que realizarles unos cuantos cambios en cada uno para que se vieran mejor ademas de ponerles un frame principal.
 <!----Separador de la descripcion ---->
 
 <!----Notas---->
 **Notas**
 
-**- Para poder abrir algunos archivos se requiere usar Visual Studio con herramientas de Windows Forms.**
+**- Para poder abrir algunos archivos se requiere usar Visual Studio con herramientas de Windows Forms, el resto se puede abrir por medio de NetBeans.**
 
 **- A diferencia de otros proyectos que hice esta lista esta incompleta, faltan algunos archivos que se nececitan para su funcionamento correcto.**
 
 **- Para hacer funcionar de forma correcta algunos proyectos se nececitan extensiones como jCalendar y MySQL Connector.**
+
+**- Quiza una que otra cosa se agregue debido a que tuve que probar que las aplicaciones.**
 <!----Separador---->
 
-<!----Lista de directorios y archivos---->
-# Lista de directorios y archivos
+<!----Directorio con ubicacion de archivos---->
+# Directorio de archivos
 ## ● Unidad 1 ●
 ###### Actividad 1 - 06/20
 (Ejercicios(carpetas), Ejercicios/Ejercicios.sln, 
@@ -180,4 +182,4 @@ PracticaUsoDeTablas/src/practicausodetablas/UsoDeTablasPractica.form,
 PracticaUsoDeTablas/src/practicausodetablas/UsoDeTablasPractica.java, 
 PracticaUsoDeTablas/build.xml, 
 PracticaUsoDeTablas/manifest.mf)
-<!----Separador de los directorios y archivos---->
+<!----Separador del direrctorio con ubicacion de archivos---->
