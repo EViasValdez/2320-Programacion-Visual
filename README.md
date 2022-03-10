@@ -12,7 +12,7 @@ He aqui varios archivos del cuatrimestre que empezamos de manera virtual, mas es
 
 **- Para hacer funcionar de forma correcta algunos proyectos se nececitan extensiones como jCalendar y MySQL Connector.**
 
-**- Quiza una que otra cosa se agregue debido a que tuve que probar que las aplicaciones.**
+**- Quiza uno que otro archivo se agregue debido a que tuve que ejecutar las aplicaciones.**
 <!----Separador---->
 
 <!----Directorio con ubicacion de archivos---->
