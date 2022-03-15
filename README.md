@@ -6,7 +6,7 @@ He aqui varios archivos del cuatrimestre que empezamos de manera virtual, mas es
 <!----Notas---->
 **Notas**
 
-**- A diferencia de otros proyectos que hice esta lista esta incompleta, faltan algunos archivos que se nececitan para su funcionamento correcto.**
+**- Esta lista esta incompleta, faltan algunos trabajos que no he puesto aqui.**
 
 **- Algunos proyectos nececitan de extensiones como jCalendar y MySQL Connector.**
 
