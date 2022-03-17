@@ -11,3 +11,5 @@ C:\Users\valde\source\repos\Escuela2\Escuela2\obj\Debug\Escuela2.VentanaCalifica
 C:\Users\valde\source\repos\Escuela2\Escuela2\obj\Debug\Escuela2.VentanaInicio.resources
 C:\Users\valde\source\repos\Escuela2\Escuela2\obj\Debug\Escuela2.VentanaMateria.resources
 C:\Users\valde\source\repos\Escuela2\Escuela2\obj\Debug\Escuela2.Alumnos.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Escuela2\Escuela2\obj\Debug\Escuela2.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Escuela2\Escuela2\obj\Debug\Escuela2.pdb
