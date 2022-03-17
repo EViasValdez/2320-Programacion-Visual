@@ -10,9 +10,9 @@ public class Menu {
     public void menu1()
     {
         System.out.println("MENU");
-        System.out.println("Opcion 1:  Calculo de Perimetro y area de triangulo");
-        System.out.println("Opcion 2:  Calculo de Perimetro y area de cuadrado");
-        System.out.println("Opcion 3:  Calculo de Perimetro y area de rectangulo");
+        System.out.println("Opcion 1: Calculo de Perimetro y area de triangulo");
+        System.out.println("Opcion 2: Calculo de Perimetro y area de cuadrado");
+        System.out.println("Opcion 3: Calculo de Perimetro y area de rectangulo");
         opcion = leer.nextInt();
         
         switch (opcion)
