@@ -16,7 +16,31 @@ He aqui varios archivos del cuatrimestre que empezamos de manera virtual, mas es
 <!----Directorio con ubicacion de archivos---->
 # Directorio de archivos
 ## ● Unidad 1 ●
-###### Actividad 1 - 06/20
+###### Ejemplo_clase 2320is - 13/05/20*
+(Ejemplo_clase 2320is/build/classes/.netbeans_automatic_build, 
+Ejemplo_clase 2320is/build/classes/.netbeans_update_resources, 
+Ejemplo_clase 2320is/build/classes/Circulo.class, 
+Ejemplo_clase 2320is/build/classes/Cuadrado.class, 
+Ejemplo_clase 2320is/build/classes/Figura.class, 
+Ejemplo_clase 2320is/build/classes/Menu.class, 
+Ejemplo_clase 2320is/build/classes/Principal.class, 
+Ejemplo_clase 2320is/build/classes/Triangulo.class, 
+Ejemplo_clase 2320is/nbproject/private/private.properties, 
+Ejemplo_clase 2320is/nbproject/private/private.xml, 
+Ejemplo_clase 2320is/nbproject/build-impl.xml, 
+Ejemplo_clase 2320is/nbproject/genfiles.properties, 
+Ejemplo_clase 2320is/nbproject/project.properties, 
+Ejemplo_clase 2320is/nbproject/project.xml, 
+Ejemplo_clase 2320is/src/Circulo.java, 
+Ejemplo_clase 2320is/src/Cuadrado.java, 
+Ejemplo_clase 2320is/src/Figura.java, 
+Ejemplo_clase 2320is/src/Menu.java, 
+Ejemplo_clase 2320is/src/Principal.java, 
+Ejemplo_clase 2320is/src/Triangulo.java, 
+Ejemplo_clase 2320is/build.xml, 
+Ejemplo_clase 2320is/manifest.mf)
+
+###### Ejercicios - 06/20
 (Ejercicios(carpetas), Ejercicios/Ejercicios.sln, 
 Ejercicios/Ejercicios/Properties/AssemblyInfo.cs, 
 Ejercicios/Ejercicios/Properties/Resources.Designer.cs, 
@@ -37,7 +61,7 @@ Ejercicios/Ejercicios/obj/Debug/Ejercicios.csprojAssemblyReference.cache,
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.exe, 
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.pdb)
 <!----Separador---->
-###### Actividad 2 - 06/20
+###### Uso de combo box - 06/20
 (Combox/build/classes/combox/Checkboxradiobutton$1.class, 
 Combox/build/classes/combox/Checkboxradiobutton$2.class, 
 Combox/build/classes/combox/Checkboxradiobutton$3.class, 
@@ -55,7 +79,7 @@ Combox/build.xml,
 Combox/manifest.mf)
 
 ## ● Unidad 2 ●
-###### Actividad 3 - 07/20
+###### Jpasswordfield - 07/20
 (Jpasswordfield/build/classes/jpasswordfield/Jpasswordfield.class, 
 Jpasswordfield/build/classes/jpasswordfield/Jpwf$1.class, 
 Jpasswordfield/build/classes/jpasswordfield/Jpwf$2.class, 
@@ -161,7 +185,7 @@ Escuela2/logo_estado.jpg,
 Escuela2/logo_estado.png, 
 Escuela2/registrarse.png)
 <!----Separador---->
-###### Actividad 6 - 08/20
+###### Practica de uso de tablas - 08/20
 (PracticaUsoDeTablas/build/classes/practicausodetablas/PracticaUsoDeTablas.class, 
 PracticaUsoDeTablas/build/classes/practicausodetablas/UsoDeTablasPractica$1.class, 
 PracticaUsoDeTablas/build/classes/practicausodetablas/UsoDeTablasPractica$2.class, 
