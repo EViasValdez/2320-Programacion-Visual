@@ -31,13 +31,11 @@ public class Menu {
                 triangulo1.setAltura(leer.nextInt());
                 // Mando a llamar al metodo perimetro
         
-                double x = triangulo1.Perimetro(triangulo1.getBase());
+                double x = triangulo1.Perimetro (triangulo1.getBase());
                 System.out.println("El perimetro es: "+ x);
         
                 System.out.println("El area es : " + triangulo1.area(triangulo1.getBase(),triangulo1.getAltura()));
             break;
-
         }
-
     }
 }

@@ -30,11 +30,10 @@ public class Triangulo extends Figura {
     
     public double Perimetro(double num)
     {
-        return num+num+num;
+        return num + num + num;
     }
     public double area(double base, double altura)
     {
-        return (base*altura)/2;
+        return (base * altura ) / 2;
     }
-    
 }
