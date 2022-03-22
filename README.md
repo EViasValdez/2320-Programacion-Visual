@@ -1,6 +1,6 @@
 # Programacion visual
 <!----Descripcion---->
-He aqui varios archivos del cuatrimestre que empezamos de manera virtual, mas especificamente de programacion virtual, mayoritariamente usando el motor de ventanas java swing a traves de NetBeans ademas de dos proyectos realizados en Windows Forms usando Visual Studio Community.
+He aqui varios archivos del cuatrimestre que empezamos de manera virtual, mas especificamente de programacion virtual, mayoritariamente usando el motor de ventanas Java Swing a traves de NetBeans ademas de algunos proyectos realizados en Windows Forms usando Visual Studio Community.
 <!----Separador de la descripcion ---->
 
 <!----Notas---->
