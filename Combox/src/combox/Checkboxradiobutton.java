@@ -315,19 +315,19 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
             mensaje = mensaje + "Manzana ";
         }
         if (chkPiña.isSelected()){
-            mensaje = mensaje + " Piña ";
+            mensaje = mensaje + "Piña ";
         }
         if (chkFresa.isSelected()){
-            mensaje = mensaje + " Fresa ";
+            mensaje = mensaje + "Fresa ";
         }
         if (chkPapaya.isSelected()){
-            mensaje = mensaje + " Papaya ";
+            mensaje = mensaje + "Papaya ";
         }    
         if (chkDurazno.isSelected()){
-            mensaje = mensaje +  " Durazno ";
+            mensaje = mensaje +  "Durazno ";
         }    
         if (chkMelon.isSelected()){
-            mensaje = mensaje + " Melon ";
+            mensaje = mensaje + "Melon ";
         }
         if (radChico.isSelected()){
             mensaje = mensaje + "Tamaño: Chico ";
@@ -336,7 +336,7 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
             mensaje = mensaje + "Tamaño: Mediano ";
         }
         if (radGrande.isSelected()){
-            mensaje = mensaje + "Tamaño: Grande ";
+            mensaje = mensaje + "Tamaño: Grande";
         }
         Mostrar.setText(mensaje);
     }//GEN-LAST:event_etiOrdenActionPerformed
@@ -348,6 +348,7 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
     private void etiOrden1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_etiOrden1ActionPerformed
         // TODO add your handling code here:
         String mensaje = " ";
+        
         if (chkPiña.isSelected()){
             mensaje = mensaje + "  ";
         }
