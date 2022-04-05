@@ -32,7 +32,7 @@ public class Menu {
                 // Mando a llamar al metodo perimetro
         
                 double x = triangulo1.Perimetro (triangulo1.getBase());
-                System.out.println("El perimetro es: "+ x);
+                System.out.println("El perimetro es: " + x);
         
                 System.out.println("El area es : " + triangulo1.area(triangulo1.getBase(),triangulo1.getAltura()));
             break;

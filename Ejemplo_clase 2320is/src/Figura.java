@@ -2,6 +2,7 @@
 public class Figura {
     private String nombre;
     private int num_lados;
+    
     //contructor vacio
     public Figura()
     {
