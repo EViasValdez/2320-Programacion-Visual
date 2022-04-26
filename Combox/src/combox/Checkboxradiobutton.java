@@ -330,13 +330,13 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
             mensaje = mensaje + "Melon ";
         }
         if (radChico.isSelected()){
-            mensaje = mensaje + "Tamaño: Chico ";
+            mensaje = mensaje + "Tamaño: chico ";
         }
         if (radMediano.isSelected()){
-            mensaje = mensaje + "Tamaño: Mediano ";
+            mensaje = mensaje + "Tamaño: mediano ";
         }
         if (radGrande.isSelected()){
-            mensaje = mensaje + "Tamaño: Grande";
+            mensaje = mensaje + "Tamaño: grande";
         }
         Mostrar.setText(mensaje);
     }//GEN-LAST:event_etiOrdenActionPerformed

@@ -1,7 +1,6 @@
 
 import java.util.Scanner;
 
-
 public class Triangulo extends Figura {
     
     private double base, altura;

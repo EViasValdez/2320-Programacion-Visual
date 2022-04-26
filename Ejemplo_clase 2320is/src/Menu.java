@@ -21,9 +21,9 @@ public class Menu {
                 Triangulo triangulo1 = new Triangulo();
                 System.out.println("Calculo de Perimetro del triangulo");
                 leer.nextLine();
-                System.out.println("Nombre de la figura ");
+                System.out.println("Nombre de la figura");
                 triangulo1.setNombre(leer.nextLine());
-                System.out.println("Numero de lados ");
+                System.out.println("Numero de lados");
                 triangulo1.setNum_lados(leer.nextInt());
                 System.out.println("Ingresa la base del triangulo");
                 triangulo1.setBase(leer.nextInt());
