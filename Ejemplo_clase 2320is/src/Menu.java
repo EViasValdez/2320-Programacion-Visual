@@ -29,7 +29,7 @@ public class Menu {
                 triangulo1.setBase(leer.nextInt());
                 System.out.println("Ingresa la altura del triangulo");
                 triangulo1.setAltura(leer.nextInt());
-                // Mando a llamar al metodo perimetro
+                // Mando a llamar al metodo "perimetro".
         
                 double x = triangulo1.Perimetro (triangulo1.getBase());
                 System.out.println("El perimetro es: " + x);
