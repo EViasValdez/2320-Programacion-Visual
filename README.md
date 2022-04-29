@@ -40,7 +40,7 @@ Ejemplo_clase 2320is/src/Triangulo.java,
 Ejemplo_clase 2320is/build.xml, 
 Ejemplo_clase 2320is/manifest.mf)
 
-###### Ejercicios - 06/20
+###### Ejercicios - 05/06/20
 (Ejercicios(carpetas), Ejercicios/Ejercicios.sln, 
 Ejercicios/Ejercicios/Properties/AssemblyInfo.cs, 
 Ejercicios/Ejercicios/Properties/Resources.Designer.cs, 
@@ -61,7 +61,7 @@ Ejercicios/Ejercicios/obj/Debug/Ejercicios.csprojAssemblyReference.cache,
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.exe, 
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.pdb)
 <!----Separador---->
-###### Uso de combo box - 06/20
+###### Combox - 06/20
 (Combox/build/classes/combox/Checkboxradiobutton$1.class, 
 Combox/build/classes/combox/Checkboxradiobutton$2.class, 
 Combox/build/classes/combox/Checkboxradiobutton$3.class, 
@@ -96,7 +96,7 @@ Jpasswordfield/src/Jpasswordfield/Jpwf.java,
 Jpasswordfield/build.xml, 
 Jpasswordfield/manifest.mf)
 <!----Separador---->
-###### Actividad 4 - 07/20
+###### Cambox - 07/20
 (Cambox/build/classes/cambox/Cambox.class, 
 Cambox/build/classes/cambox/VentanaA$1.class, 
 Cambox/build/classes/cambox/VentanaA$2.class, 
@@ -185,7 +185,7 @@ Escuela2/logo_estado.jpg,
 Escuela2/logo_estado.png, 
 Escuela2/registrarse.png)
 <!----Separador---->
-###### Practica de uso de tablas - 08/20
+###### PracticaUsoDeTablas - 08/20
 (PracticaUsoDeTablas/build/classes/practicausodetablas/PracticaUsoDeTablas.class, 
 PracticaUsoDeTablas/build/classes/practicausodetablas/UsoDeTablasPractica$1.class, 
 PracticaUsoDeTablas/build/classes/practicausodetablas/UsoDeTablasPractica$2.class, 
