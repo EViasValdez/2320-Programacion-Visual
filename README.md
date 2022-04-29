@@ -131,7 +131,7 @@ Cambox/build.xml,
 Cambox/manifest.mf)
 
 ## ● Unidad 3 ●
-###### Actividad 5 - 08/20
+###### Escuela2 - 20/06/20
 (Escuela2/Escuela2/Properties/AssemblyInfo.cs, 
 Escuela2/Escuela2/Properties/Resources.Designer.cs, 
 Escuela2/Escuela2/Properties/Resources.resx, 

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cbox", "cbox\cbox.csproj", "{0B3EF2D5-07F7-47D8-9EDB-B69DA582C8EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B3EF2D5-07F7-47D8-9EDB-B69DA582C8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3EF2D5-07F7-47D8-9EDB-B69DA582C8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3EF2D5-07F7-47D8-9EDB-B69DA582C8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3EF2D5-07F7-47D8-9EDB-B69DA582C8EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A72EC2B-3B93-4E72-A067-B27B5E0C3A12}
+	EndGlobalSection
+EndGlobal
