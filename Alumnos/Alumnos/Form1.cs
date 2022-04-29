@@ -73,8 +73,9 @@ namespace Alumnos
             {
                 alumno.sex = 'f';
             }
-            if (masc.Checked == true)
-            alumno.entid = entidad.Items.ToString();
+            if (masc.Checked == true){
+                alumno.entid = entidad.Items.ToString();
+            }
         }
         public void limpiar()
         {

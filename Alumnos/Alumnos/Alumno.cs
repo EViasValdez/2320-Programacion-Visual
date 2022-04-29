@@ -25,43 +25,36 @@ namespace Alumnos
             this.telefono = 0;
             this.entidad_nacional = null;
         }
-
         public int mat
         {
             get { return matricula; }
             set { this.matricula = value; }
         }
-
         public string nom
         {
             get { return nombre; }
             set { this.nombre = value; }
         }
-
         public int eda
         {
             get { return edad; }
             set { this.edad = value; }        
         }
-
         public char sex
         {
             get { return sexo; }
             set { this.sexo = value; }
         }
-
         public int telf
         {
             get { return telefono; }
             set { this.telefono = value; }
         }
-
         public string entid
         {
             get { return entidad_nacional; }
             set { this.entidad_nacional = value; }
         }
-
         public override string ToString()
         {
             return "ALUMNO: \n " +
@@ -72,11 +65,5 @@ namespace Alumnos
                    "Telefono: " + telf + "\n" +
                    "Entidad de nacimiento: " + entid;
         }
-
-
-
-
-
-
     }
 }
