@@ -131,7 +131,7 @@ Cambox/build.xml,
 Cambox/manifest.mf)
 
 ## ● Unidad 3 ●
-###### Escuela2 - 20/06/20
+###### Escuela2 - 12, 20/06/20
 (Escuela2/Escuela2/Properties/AssemblyInfo.cs, 
 Escuela2/Escuela2/Properties/Resources.Designer.cs, 
 Escuela2/Escuela2/Properties/Resources.resx, 
@@ -207,3 +207,12 @@ PracticaUsoDeTablas/src/practicausodetablas/UsoDeTablasPractica.java,
 PracticaUsoDeTablas/build.xml, 
 PracticaUsoDeTablas/manifest.mf)
 <!----Separador del direrctorio con ubicacion de archivos---->
+
+<!--
+Faltan de agregar estos proyectos:
+Practica - 05/06/20
+cbox - 09/06/20
+CheckBox - 06/06/20
+Ejercicio - 05/06/20
+Ejercicios - 05/06/20
+-->
