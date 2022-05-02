@@ -61,6 +61,64 @@ Ejercicios/Ejercicios/obj/Debug/Ejercicios.csprojAssemblyReference.cache,
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.exe, 
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.pdb)
 <!----Separador---->
+###### Practica - 05/06/20
+(Practica/Practica/Properties/AssemblyInfo.cs, 
+Practica/Practica/Properties/Resources.Designer.cs, 
+Practica/Practica/Properties/Resources.resx, 
+Practica/Practica/Properties/Settings.Designer.cs, 
+Practica/Practica/Properties/Settings.settings, 
+Practica/Practica/bin/Debug/Practica.exe, 
+Practica/Practica/bin/Debug/Practica.exe.config, 
+Practica/Practica/bin/Debug/Practica.pdb, 
+Practica/Practica/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs, 
+Practica/Practica/obj/Debug/DesignTimeResolveAssemblyReferences.cache, 
+Practica/Practica/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache, 
+Practica/Practica/obj/Debug/Practica.Form1.resources, 
+Practica/Practica/obj/Debug/Practica.Properties.Resources.resources, 
+Practica/Practica/obj/Debug/Practica.csproj.CoreCompileInputs.cache, 
+Practica/Practica/obj/Debug/Practica.csproj.FileListAbsolute.txt, 
+Practica/Practica/obj/Debug/Practica.csproj.GenerateResource.cache, 
+Practica/Practica/obj/Debug/Practica.csprojAssemblyReference.cache, 
+Practica/Practica/obj/Debug/Practica.exe, 
+Practica/Practica/obj/Debug/Practica.pdb, 
+Practica/Practica/App.config, 
+Practica/Practica/Practica.csproj, 
+Practica/Practica/Program.cs, 
+Practica/Practica/form.Designer.cs, 
+Practica/Practica/form.cs, 
+Practica/Practica/form.resx, 
+Practica/Practica.sln)
+<!----Separador---->
+###### Alumnos - 11/06/20
+(Alumnos/Alumnos/Properties/AssemblyInfo.cs, 
+Alumnos/Alumnos/Properties/Resources.Designer.cs, 
+Alumnos/Alumnos/Properties/Resources.resx, 
+Alumnos/Alumnos/Properties/Settings.Designer.cs, 
+Alumnos/Alumnos/Properties/Settings.settings, 
+Alumnos/Alumnos/bin/Debug/Alumnos.exe, 
+Alumnos/Alumnos/bin/Debug/Alumnos.exe.config, 
+Alumnos/Alumnos/bin/Debug/Alumnos.pdb, 
+Alumnos/Alumnos/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs, 
+Alumnos/Alumnos/obj/Debug/Alumnos.Form1.resources, 
+Alumnos/Alumnos/obj/Debug/Alumnos.Properties.Resources.resources, 
+Alumnos/Alumnos/obj/Debug/Alumnos.csproj.CoreCompileInputs.cache, 
+Alumnos/Alumnos/obj/Debug/Alumnos.csproj.FileListAbsolute.txt, 
+Alumnos/Alumnos/obj/Debug/Alumnos.csproj.GenerateResource.cache, 
+Alumnos/Alumnos/obj/Debug/Alumnos.csprojAssemblyReference.cache, 
+Alumnos/Alumnos/obj/Debug/Alumnos.exe, 
+Alumnos/Alumnos/obj/Debug/Alumnos.pdb, 
+Alumnos/Alumnos/obj/Debug/DesignTimeResolveAssemblyReferences.cache, 
+Alumnos/Alumnos/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache, 
+Alumnos/Alumnos/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs, 
+Alumnos/Alumnos/Alumno.cs, 
+Alumnos/Alumnos/Alumnos.csproj, 
+Alumnos/Alumnos/App.config, 
+Alumnos/Alumnos/Form1.Designer.cs, 
+Alumnos/Alumnos/Form1.cs, 
+Alumnos/Alumnos/Form1.resx, 
+Alumnos/Alumnos/Program.cs, 
+Alumnos/Alumnos.sln)
+<!----Separador---->
 ###### Combox - 06/20
 (Combox/build/classes/combox/Checkboxradiobutton$1.class, 
 Combox/build/classes/combox/Checkboxradiobutton$2.class, 
@@ -210,10 +268,9 @@ PracticaUsoDeTablas/manifest.mf)
 
 <!--
 Faltan de agregar estos proyectos:
-###### Practica - 05/06/20
+
 ###### cbox - 09/06/20
 ###### CheckBox - 06/06/20
 ###### Ejercicio - 05/06/20
 ###### Ejercicios - 05/06/20
-###### Alumnos - 11/06/20
 -->
