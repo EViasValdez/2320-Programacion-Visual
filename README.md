@@ -210,10 +210,10 @@ PracticaUsoDeTablas/manifest.mf)
 
 <!--
 Faltan de agregar estos proyectos:
-Practica - 05/06/20
-cbox - 09/06/20
-CheckBox - 06/06/20
-Ejercicio - 05/06/20
-Ejercicios - 05/06/20
-Alumnos - 11/06/20
+###### Practica - 05/06/20
+###### cbox - 09/06/20
+###### CheckBox - 06/06/20
+###### Ejercicio - 05/06/20
+###### Ejercicios - 05/06/20
+###### Alumnos - 11/06/20
 -->
