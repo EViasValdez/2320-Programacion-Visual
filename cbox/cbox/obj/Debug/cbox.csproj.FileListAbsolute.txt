@@ -8,3 +8,13 @@ C:\Users\valde\source\repos\cbox\cbox\obj\Debug\cbox.csproj.GenerateResource.cac
 C:\Users\valde\source\repos\cbox\cbox\obj\Debug\cbox.csproj.CoreCompileInputs.cache
 C:\Users\valde\source\repos\cbox\cbox\obj\Debug\cbox.exe
 C:\Users\valde\source\repos\cbox\cbox\obj\Debug\cbox.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\cbox\cbox\bin\Debug\cbox.exe.config
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\cbox\cbox\bin\Debug\cbox.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\cbox\cbox\bin\Debug\cbox.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.Form1.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.Properties.Resources.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.csproj.GenerateResource.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.pdb
