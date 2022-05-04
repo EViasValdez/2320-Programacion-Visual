@@ -6,11 +6,11 @@ He aqui varios archivos del cuatrimestre que empezamos de manera virtual, mas es
 <!----Notas---->
 **Notas**
 
-**- Esta lista esta incompleta, faltan algunos trabajos que no he puesto aqui.**
-
 **- Algunos proyectos nececitan de extensiones como jCalendar y MySQL Connector.**
 
 **- Quiza uno que otro archivo se agregue debido a que tuve que probar el funcionamiento de las aplicaciones.**
+
+**- El framework de .NET utilizado para programas con Windows Forms es la version 4.8, cambiada de la version 4.7 en la que estaban los documentos originales.**
 <!----Separador---->
 
 <!----Directorio con ubicacion de archivos---->
