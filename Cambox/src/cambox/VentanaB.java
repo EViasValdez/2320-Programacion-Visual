@@ -50,7 +50,7 @@ public class VentanaB extends javax.swing.JFrame {
         jLabel1.setFont(new java.awt.Font("Gadugi", 1, 28)); // NOI18N
         jLabel1.setText("Validacion de entradas de texto");
 
-        CuadroNombre.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        CuadroNombre.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         CuadroNombre.addKeyListener(new java.awt.event.KeyAdapter() {
             public void keyTyped(java.awt.event.KeyEvent evt) {
                 CuadroNombreKeyTyped(evt);
@@ -58,7 +58,7 @@ public class VentanaB extends javax.swing.JFrame {
         });
 
         btnIngresar.setBackground(new java.awt.Color(243, 239, 0));
-        btnIngresar.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        btnIngresar.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         btnIngresar.setText("Ingresar");
         btnIngresar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -69,10 +69,10 @@ public class VentanaB extends javax.swing.JFrame {
         Nombre.setFont(new java.awt.Font("Dialog", 0, 18)); // NOI18N
         Nombre.setText("Nombre");
 
-        jLabel2.setFont(new java.awt.Font("Dialog", 1, 18)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Dialog", 1, 24)); // NOI18N
         jLabel2.setText("Lista de nombres");
 
-        jlistNombres.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        jlistNombres.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jScrollPane2.setViewportView(jlistNombres);
 
         javax.swing.GroupLayout PanelDosLayout = new javax.swing.GroupLayout(PanelDos);
@@ -80,10 +80,6 @@ public class VentanaB extends javax.swing.JFrame {
         PanelDosLayout.setHorizontalGroup(
             PanelDosLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(PanelDosLayout.createSequentialGroup()
-                .addGap(258, 258, 258)
-                .addComponent(jLabel2)
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, PanelDosLayout.createSequentialGroup()
                 .addContainerGap(130, Short.MAX_VALUE)
                 .addGroup(PanelDosLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, PanelDosLayout.createSequentialGroup()
@@ -98,7 +94,10 @@ public class VentanaB extends javax.swing.JFrame {
                         .addGap(162, 162, 162))
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, PanelDosLayout.createSequentialGroup()
                         .addComponent(jLabel1)
-                        .addGap(113, 113, 113))))
+                        .addGap(113, 113, 113))
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, PanelDosLayout.createSequentialGroup()
+                        .addComponent(jLabel2)
+                        .addGap(213, 213, 213))))
         );
         PanelDosLayout.setVerticalGroup(
             PanelDosLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)

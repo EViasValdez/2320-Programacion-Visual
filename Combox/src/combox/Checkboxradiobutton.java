@@ -56,12 +56,12 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
         jPanel1.setBackground(new java.awt.Color(0, 124, 0));
         jPanel1.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
-        jLabel1.setFont(new java.awt.Font("Dialog", 1, 12)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Gadugi", 1, 12)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
         jLabel1.setText("Elige tus frutas");
 
         chkManzana.setBackground(new java.awt.Color(0, 124, 0));
-        chkManzana.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        chkManzana.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         chkManzana.setForeground(new java.awt.Color(255, 255, 255));
         chkManzana.setText("Manzana");
         chkManzana.addActionListener(new java.awt.event.ActionListener() {
@@ -71,27 +71,27 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
         });
 
         chkFresa.setBackground(new java.awt.Color(0, 124, 0));
-        chkFresa.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        chkFresa.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         chkFresa.setForeground(new java.awt.Color(255, 255, 255));
         chkFresa.setText("Fresa");
 
         chkDurazno.setBackground(new java.awt.Color(0, 124, 0));
-        chkDurazno.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        chkDurazno.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         chkDurazno.setForeground(new java.awt.Color(255, 255, 255));
         chkDurazno.setText("Durazno");
 
         chkPiña.setBackground(new java.awt.Color(0, 124, 0));
-        chkPiña.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        chkPiña.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         chkPiña.setForeground(new java.awt.Color(255, 255, 255));
         chkPiña.setText("Piña");
 
         chkPapaya.setBackground(new java.awt.Color(0, 124, 0));
-        chkPapaya.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        chkPapaya.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         chkPapaya.setForeground(new java.awt.Color(255, 255, 255));
         chkPapaya.setText("Papaya");
 
         chkMelon.setBackground(new java.awt.Color(0, 124, 0));
-        chkMelon.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        chkMelon.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         chkMelon.setForeground(new java.awt.Color(255, 255, 255));
         chkMelon.setText("Melon");
 
@@ -142,11 +142,12 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
         jPanel2.setBackground(new java.awt.Color(9, 0, 168));
         jPanel2.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
-        jLabel2.setFont(new java.awt.Font("Dialog", 1, 12)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Gadugi", 1, 12)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
         jLabel2.setText("Elige el tamaño");
 
         radChico.setBackground(new java.awt.Color(9, 0, 168));
+        radChico.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         radChico.setForeground(new java.awt.Color(255, 255, 255));
         radChico.setText("Chico");
         radChico.addActionListener(new java.awt.event.ActionListener() {
@@ -156,10 +157,12 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
         });
 
         radMediano.setBackground(new java.awt.Color(9, 0, 168));
+        radMediano.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         radMediano.setForeground(new java.awt.Color(255, 255, 255));
         radMediano.setText("Mediano");
 
         radGrande.setBackground(new java.awt.Color(9, 0, 168));
+        radGrande.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         radGrande.setForeground(new java.awt.Color(255, 255, 255));
         radGrande.setText("Grande");
 
@@ -193,13 +196,12 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
         jPanel5.setBackground(new java.awt.Color(198, 0, 0));
         jPanel5.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
-        label2.setFont(new java.awt.Font("Dialog", 1, 12)); // NOI18N
+        label2.setFont(new java.awt.Font("Gadugi", 1, 12)); // NOI18N
         label2.setForeground(new java.awt.Color(240, 240, 240));
         label2.setText("Asi va su orden");
 
         etiOrden.setBackground(new java.awt.Color(198, 0, 0));
-        etiOrden.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
-        etiOrden.setForeground(new java.awt.Color(255, 255, 255));
+        etiOrden.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         etiOrden.setText("Generar orden");
         etiOrden.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -208,8 +210,7 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
         });
 
         etiOrden1.setBackground(new java.awt.Color(198, 0, 0));
-        etiOrden1.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
-        etiOrden1.setForeground(new java.awt.Color(255, 255, 255));
+        etiOrden1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         etiOrden1.setText("Limpiar orden");
         etiOrden1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -218,7 +219,7 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
         });
 
         Mostrar.setBackground(new java.awt.Color(198, 0, 0));
-        Mostrar.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        Mostrar.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         Mostrar.setForeground(new java.awt.Color(255, 255, 255));
         Mostrar.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 

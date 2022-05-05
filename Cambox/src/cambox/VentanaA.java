@@ -41,7 +41,7 @@ public class VentanaA extends javax.swing.JFrame {
         jLabel1.setText("Menu principal de opciones");
 
         Seleccion.setBackground(new java.awt.Color(207, 0, 0));
-        Seleccion.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        Seleccion.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
         Seleccion.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Eliga una opcion desde aqui", "Texto", "Numero" }));
         Seleccion.setToolTipText("");
         Seleccion.addActionListener(new java.awt.event.ActionListener() {

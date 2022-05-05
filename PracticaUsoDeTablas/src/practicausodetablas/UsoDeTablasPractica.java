@@ -62,7 +62,7 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        Eliminar.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        Eliminar.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         Eliminar.setText("Eliminar");
         Eliminar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -70,7 +70,7 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
             }
         });
 
-        EliminarTodo.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        EliminarTodo.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         EliminarTodo.setText("Eliminar todo");
         EliminarTodo.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -78,7 +78,7 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
             }
         });
 
-        Modificar.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        Modificar.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         Modificar.setText("Modificar");
         Modificar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -86,42 +86,42 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
             }
         });
 
-        jLabel1.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel1.setText("Nombres");
 
-        jLabel4.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        jLabel4.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel4.setText("Fila");
 
-        Nombres.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        Nombres.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
 
-        jLabel5.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        jLabel5.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel5.setText("Columna");
 
-        jLabel2.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel2.setText("Apellidos");
 
-        Fila.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        Fila.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
 
-        Apellidos.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        Apellidos.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
 
-        Columna.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        Columna.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         Columna.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 ColumnaActionPerformed(evt);
             }
         });
 
-        jLabel3.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        jLabel3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel3.setText("Telefono");
 
-        jLabel6.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        jLabel6.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel6.setText("Nuevo valor");
 
-        Telefonos.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        Telefonos.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
 
-        NuevoValor.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        NuevoValor.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
 
-        Tabla.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        Tabla.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         Tabla.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
                 {},
@@ -135,7 +135,7 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
         ));
         jScrollPane1.setViewportView(Tabla);
 
-        Enviar.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        Enviar.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         Enviar.setText("Enviar");
         Enviar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -161,32 +161,30 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(Modificar, javax.swing.GroupLayout.PREFERRED_SIZE, 120, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addGroup(PanelUnoLayout.createSequentialGroup()
-                        .addGroup(PanelUnoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
-                            .addGroup(javax.swing.GroupLayout.Alignment.LEADING, PanelUnoLayout.createSequentialGroup()
-                                .addComponent(jLabel1)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                                .addComponent(Nombres))
+                        .addGroup(PanelUnoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addGroup(PanelUnoLayout.createSequentialGroup()
                                 .addGroup(PanelUnoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                                     .addComponent(jLabel3)
                                     .addComponent(jLabel2, javax.swing.GroupLayout.Alignment.TRAILING))
-                                .addGroup(PanelUnoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                    .addGroup(PanelUnoLayout.createSequentialGroup()
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                                        .addComponent(Apellidos, javax.swing.GroupLayout.PREFERRED_SIZE, 140, javax.swing.GroupLayout.PREFERRED_SIZE))
-                                    .addGroup(PanelUnoLayout.createSequentialGroup()
-                                        .addGap(10, 10, 10)
-                                        .addComponent(Telefonos, javax.swing.GroupLayout.PREFERRED_SIZE, 140, javax.swing.GroupLayout.PREFERRED_SIZE)))))
-                        .addGap(111, 111, 111)
+                                .addGap(18, 18, 18)
+                                .addGroup(PanelUnoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                                    .addComponent(Apellidos, javax.swing.GroupLayout.DEFAULT_SIZE, 148, Short.MAX_VALUE)
+                                    .addComponent(Telefonos)))
+                            .addGroup(PanelUnoLayout.createSequentialGroup()
+                                .addGap(1, 1, 1)
+                                .addComponent(jLabel1)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                                .addComponent(Nombres, javax.swing.GroupLayout.PREFERRED_SIZE, 148, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                        .addGap(31, 31, 31)
                         .addGroup(PanelUnoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(jLabel4, javax.swing.GroupLayout.Alignment.TRAILING)
                             .addComponent(jLabel6, javax.swing.GroupLayout.Alignment.TRAILING)
                             .addComponent(jLabel5, javax.swing.GroupLayout.Alignment.TRAILING))
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                        .addGap(18, 18, 18)
                         .addGroup(PanelUnoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(Fila)
+                            .addComponent(Fila, javax.swing.GroupLayout.DEFAULT_SIZE, 148, Short.MAX_VALUE)
                             .addComponent(Columna)
-                            .addComponent(NuevoValor, javax.swing.GroupLayout.PREFERRED_SIZE, 136, javax.swing.GroupLayout.PREFERRED_SIZE))))
+                            .addComponent(NuevoValor))))
                 .addContainerGap(26, Short.MAX_VALUE))
         );
         PanelUnoLayout.setVerticalGroup(
