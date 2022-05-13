@@ -6,7 +6,7 @@
 
 /**
  *
- * @author carmen
+ * @author carmen (Correciones por EViasValdez)
  */
 public class Circulo {
     

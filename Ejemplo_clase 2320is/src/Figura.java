@@ -32,6 +32,4 @@ public class Figura {
     public void setNum_lados(int num_lados) {
         this.num_lados = num_lados;
     }
-    
-    
 }

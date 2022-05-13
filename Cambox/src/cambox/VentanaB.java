@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Eduardo
+ * @author EViasValdez
  */
 public class VentanaB extends javax.swing.JFrame {
 

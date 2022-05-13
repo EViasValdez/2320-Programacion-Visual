@@ -7,7 +7,7 @@ package combox;
 
 /**
  *
- * @author Eduardo
+ * @author EViasValdez
  */
 public class Checkboxradiobutton extends javax.swing.JFrame {
 

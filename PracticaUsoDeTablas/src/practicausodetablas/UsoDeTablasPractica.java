@@ -10,7 +10,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Eduardo
+ * @author EViasValdez
  */
 public class UsoDeTablasPractica extends javax.swing.JFrame {
     DefaultTableModel modelo;

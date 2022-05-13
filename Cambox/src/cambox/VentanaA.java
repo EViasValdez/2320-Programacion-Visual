@@ -7,7 +7,7 @@ package cambox;
 
 /**
  *
- * @author Eduardo
+ * @author EViasValdez
  */
 public class VentanaA extends javax.swing.JFrame {
 

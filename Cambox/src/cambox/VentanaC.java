@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Eduardo
+ * @author EViasValdez
  */
 public class VentanaC extends javax.swing.JFrame {
 
