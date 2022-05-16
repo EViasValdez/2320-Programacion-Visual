@@ -39,7 +39,7 @@ Ejemplo_clase 2320is/src/Principal.java,
 Ejemplo_clase 2320is/src/Triangulo.java, 
 Ejemplo_clase 2320is/build.xml, 
 Ejemplo_clase 2320is/manifest.mf)
-
+<!----Separador---->
 ###### Ejercicios - 05/06/20
 (Ejercicios(carpetas), Ejercicios/Ejercicios.sln, 
 Ejercicios/Ejercicios/Properties/AssemblyInfo.cs, 
