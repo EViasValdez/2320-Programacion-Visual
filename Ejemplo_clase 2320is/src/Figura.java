@@ -1,4 +1,3 @@
-
 public class Figura {
     private String nombre;
     private int num_lados;
@@ -15,7 +14,6 @@ public class Figura {
         this.nombre = nom;
         this.num_lados = num;
     }
-    
     public void setNombre(String nom)
     {
         this.nombre = nom;
@@ -24,11 +22,9 @@ public class Figura {
     {
         return this.nombre;
     }
-
     public int getNum_lados() {
         return num_lados;
     }
-
     public void setNum_lados(int num_lados) {
         this.num_lados = num_lados;
     }

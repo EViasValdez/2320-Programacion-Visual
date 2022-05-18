@@ -10,23 +10,18 @@ public class Triangulo extends Figura {
         this.base = 0;
         this.altura = 0;
     }
-
     public double getBase() {
         return base;
     }
-
     public void setBase(double base) {
         this.base = base;
     }
-
     public double getAltura() {
         return altura;
     }
-
     public void setAltura(double altura) {
         this.altura = altura;
     }
-    
     public double Perimetro(double num)
     {
         return num + num + num;
