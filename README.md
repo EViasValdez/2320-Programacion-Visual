@@ -1,6 +1,6 @@
 # Programacion visual
 <!----Descripción---->
-He aquí varios archivos del cuatrimestre que empezamos de manera virtual, mas específicamente de programacion virtual, mayoritariamente usando el motor de ventanas Java Swing a traves de NetBeans ademas de algunos proyectos realizados en Windows Forms usando Visual Studio Community.
+He aquí varios archivos del cuatrimestre que empezamos de manera virtual, mas específicamente de programación virtual, mayoritariamente usando el motor de ventanas Java Swing a traves de NetBeans ademas de algunos proyectos realizados en Windows Forms usando Visual Studio Community.
 <!----Separador de la descripción ---->
 
 <!----Notas---->
@@ -47,7 +47,7 @@ Ejercicios/Ejercicios/Properties/Resources.Designer.cs,
 Ejercicios/Ejercicios/Properties/Resources.resx, 
 Ejercicios/Ejercicios/Properties/Settings.Designer.cs, 
 Ejercicios/Ejercicios/Properties/Settings.Designer.cs, 
-Ejercicios/Ejercicios/Porperties/Settings.settings, 
+Ejercicios/Ejercicios/Properties/Settings.settings, 
 Ejercicios/Ejercicios/bin/Debug/Ejercicios.exe, 
 Ejercicios/Ejercicios/bin/Debug/Ejercicios.exe.config, 
 Ejercicios/Ejercicios/bin/Debug/Ejercicios.pdb, 
@@ -271,7 +271,7 @@ PracticaUsoDeTablas/src/practicausodetablas/UsoDeTablasPractica.form,
 PracticaUsoDeTablas/src/practicausodetablas/UsoDeTablasPractica.java, 
 PracticaUsoDeTablas/build.xml, 
 PracticaUsoDeTablas/manifest.mf)
-<!----Separador del direrctorio con ubicacion de archivos---->
+<!----Separador del directorio con ubicación de archivos---->
 
 <!--
 Faltan de agregar estos proyectos:
