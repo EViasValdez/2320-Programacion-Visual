@@ -23,7 +23,7 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
         modelo = new DefaultTableModel();
         modelo.addColumn("Nombre");
         modelo.addColumn("Apellido");
-        modelo.addColumn("Telefono");
+        modelo.addColumn("Teléfono");
         this.Tabla.setModel(modelo);
     }
 
@@ -112,7 +112,7 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
         });
 
         jLabel3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        jLabel3.setText("Telefono");
+        jLabel3.setText("Teléfono");
 
         jLabel6.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel6.setText("Nuevo valor");
@@ -240,7 +240,7 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
             modelo.removeRow(filaselecta);
         }
         else{
-            JOptionPane.showMessageDialog(null, "Tabla vacia o no selecciono ninguna fila");
+            JOptionPane.showMessageDialog(null, "Tabla vacía o no selecciono ninguna fila");
         }
     }//GEN-LAST:event_EliminarActionPerformed
 

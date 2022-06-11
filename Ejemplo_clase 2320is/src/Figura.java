@@ -2,13 +2,13 @@ public class Figura {
     private String nombre;
     private int num_lados;
     
-    //contructor vacio
+    // Constructor vació
     public Figura()
     {
         this.nombre = null;
         this.num_lados = 0;
     }
-     //contructor con parametros
+     // Constructor con parámetros
     public Figura(String nom, int num)
     {
         this.nombre = nom;

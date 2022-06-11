@@ -62,7 +62,7 @@ namespace Alumnos
                    "Nombre: " + nom + "\n" +
                    "Edad: " + edad + "\n" +
                    "Sexo: " + sex + "\n" +
-                   "Telefono: " + telf + "\n" +
+                   "Teléfono: " + telf + "\n" +
                    "Entidad de nacimiento: " + entid;
         }
     }

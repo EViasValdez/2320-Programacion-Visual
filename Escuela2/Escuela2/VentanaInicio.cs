@@ -31,7 +31,7 @@ namespace Escuela2
             }
             else
             {
-                MessageBox.Show("Contraseña Incorrecta, por favor intente de nuevo");
+                MessageBox.Show("Contraseña incorrecta, por favor intente de nuevo");
             }
         }
     }

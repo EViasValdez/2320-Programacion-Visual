@@ -20,12 +20,12 @@ namespace Ejercicios
         private void button1_Click(object sender, EventArgs e)
         {
             label2.Text = "  ACTIVADO  ";
-            button2.Text = "Ya puedes presionar aqui";
+            button2.Text = "Ya puedes presionar aquí";
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Esto es una prueba para la Materia de Programacion visual");
+            MessageBox.Show("Esto es una prueba para la Materia de Programación visual");
             MessageBox.Show("Hecho por Eduardo Viñas Valdez del Grupo 2320 - IS");
         }
     }
