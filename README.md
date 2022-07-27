@@ -89,6 +89,38 @@ Practica/Practica/form.cs,
 Practica/Practica/form.resx, 
 Practica/Practica.sln)
 <!----Separador---->
+###### cbox - 09/06/20
+(cbox/cbox/Properties/AssemblyInfo.cs, 
+cbox/cbox/Properties/Resources.Designer.cs, 
+cbox/cbox/Properties/Resources.resx, 
+cbox/cbox/Properties/Settings.Designer.cs, 
+cbox/cbox/Properties/Settings.settings, 
+cbox/cbox/bin/Debug/cbox.exe, 
+cbox/cbox/bin/Debug/cbox.exe.config, 
+cbox/cbox/bin/Debug/cbox.pdb, 
+cbox/cbox/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll, 
+cbox/cbox/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs, 
+cbox/cbox/obj/Debug/DesignTimeResolveAssemblyReferences.cache, 
+cbox/cbox/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache, 
+cbox/cbox/obj/Debug/cbox.Form1.resources, 
+cbox/cbox/obj/Debug/cbox.Properties.Resources.resources, 
+cbox/cbox/obj/Debug/cbox.csproj.AssemblyReference.cache, 
+cbox/cbox/obj/Debug/cbox.csproj.CoreCompileInputs.cache, 
+cbox/cbox/obj/Debug/cbox.csproj.FileListAbsolute.txt, 
+cbox/cbox/obj/Debug/cbox.csproj.GenerateResource.cache, 
+cbox/cbox/obj/Debug/cbox.csprojAssemblyReference.cache, 
+cbox/cbox/obj/Debug/cbox.exe, 
+cbox/cbox/obj/Debug/cbox.pdb, 
+cbox/cbox/obj/Release/.NETFramework,Version=v4.8.AssemblyAttributes.cs, 
+cbox/cbox/obj/Release/cbox.csproj.AssemblyReference.cache, 
+cbox/cbox/App.config, 
+cbox/cbox/Form1.Designer.cs, 
+cbox/cbox/Form1.cs, 
+cbox/cbox/Form1.resx, 
+cbox/cbox/Program.cs, 
+cbox/cbox/cbox.csproj, 
+cbox/cbox.sln)
+<!----Separador---->
 ###### Alumnos - 11/06/20
 (Alumnos/Alumnos/Properties/AssemblyInfo.cs, 
 Alumnos/Alumnos/Properties/Resources.Designer.cs, 
@@ -275,9 +307,6 @@ PracticaUsoDeTablas/manifest.mf)
 
 <!--
 Faltan de agregar estos proyectos:
-
-###### cbox - 09/06/20
 ###### CheckBox - 06/06/20
-###### Ejercicio - 05/06/20
 ###### Ejercicios - 05/06/20
 -->
