@@ -41,25 +41,32 @@ Ejemplo_clase 2320is/build.xml,
 Ejemplo_clase 2320is/manifest.mf)
 <!----Separador---->
 ###### Ejercicios - 05/06/20
-(Ejercicios(carpetas), Ejercicios/Ejercicios.sln, 
-Ejercicios/Ejercicios/Properties/AssemblyInfo.cs, 
+(Ejercicios/Ejercicios/Properties/AssemblyInfo.cs, 
 Ejercicios/Ejercicios/Properties/Resources.Designer.cs, 
 Ejercicios/Ejercicios/Properties/Resources.resx, 
-Ejercicios/Ejercicios/Properties/Settings.Designer.cs, 
 Ejercicios/Ejercicios/Properties/Settings.Designer.cs, 
 Ejercicios/Ejercicios/Properties/Settings.settings, 
 Ejercicios/Ejercicios/bin/Debug/Ejercicios.exe, 
 Ejercicios/Ejercicios/bin/Debug/Ejercicios.exe.config, 
 Ejercicios/Ejercicios/bin/Debug/Ejercicios.pdb, 
+Ejercicios/Ejercicios/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs, 
 Ejercicios/Ejercicios/obj/Debug/DesignTimeResolveAssemblyReferences.cache, 
 Ejercicios/Ejercicios/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache, 
+Ejercicios/Ejercicios/obj/Debug/Ejercicios.Form1.resources, 
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.Properties.Resources.resources, 
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.csproj.CoreCompileInputs.cache, 
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.csproj.FileListAbsolute.txt, 
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.csproj.GenerateResource.cache, 
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.csprojAssemblyReference.cache, 
 Ejercicios/Ejercicios/obj/Debug/Ejercicios.exe, 
-Ejercicios/Ejercicios/obj/Debug/Ejercicios.pdb)
+Ejercicios/Ejercicios/obj/Debug/Ejercicios.pdb, 
+Ejercicios/Ejercicios/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs, 
+Ejercicios/Ejercicios/App.config, 
+Ejercicios/Ejercicios/Ejercicios.csproj, 
+Ejercicios/Ejercicios/Form1.Designer.cs, 
+Ejercicios/Ejercicios/Form1.cs, 
+Ejercicios/Ejercicios/Form1.resx, 
+Ejercicios/Ejercicios/Program.cs)
 <!----Separador---->
 ###### Practica - 05/06/20
 (Practica/Practica/Properties/AssemblyInfo.cs, 
@@ -335,8 +342,3 @@ PracticaUsoDeTablas/src/practicausodetablas/UsoDeTablasPractica.java,
 PracticaUsoDeTablas/build.xml, 
 PracticaUsoDeTablas/manifest.mf)
 <!----Separador del directorio con ubicación de archivos---->
-
-<!--
-Faltan de agregar estos proyectos:
-###### Ejercicios - 05/06/20
--->
