@@ -89,6 +89,37 @@ Practica/Practica/form.cs,
 Practica/Practica/form.resx, 
 Practica/Practica.sln)
 <!----Separador---->
+###### CheckBox - 06/06/20
+(CheckBox/CheckBox/Properties/AssemblyInfo.cs, 
+CheckBox/CheckBox/Properties/Resources.Designer.cs, 
+CheckBox/CheckBox/Properties/Resources.resx, 
+CheckBox/CheckBox/Properties/Settings.Designer.cs, 
+CheckBox/CheckBox/Properties/Settings.settings, 
+CheckBox/CheckBox/bin/Debug/CheckBox.exe, 
+CheckBox/CheckBox/bin/Debug/CheckBox.exe.config, 
+CheckBox/CheckBox/bin/Debug/CheckBox.pdb, 
+CheckBox/CheckBox/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs, 
+CheckBox/CheckBox/obj/Debug/CheckBox.Form1.resources, 
+CheckBox/CheckBox/obj/Debug/CheckBox.Properties.Resources.resources, 
+CheckBox/CheckBox/obj/Debug/CheckBox.csproj.AssemblyReference.cache, 
+CheckBox/CheckBox/obj/Debug/CheckBox.csproj.CoreCompileInputs.cache, 
+CheckBox/CheckBox/obj/Debug/CheckBox.csproj.FileListAbsolute.txt, 
+CheckBox/CheckBox/obj/Debug/CheckBox.csproj.GenerateResource.cache, 
+CheckBox/CheckBox/obj/Debug/CheckBox.csprojAssemblyReference.cache, 
+CheckBox/CheckBox/obj/Debug/CheckBox.exe, 
+CheckBox/CheckBox/obj/Debug/CheckBox.pdb, 
+CheckBox/CheckBox/obj/Debug/DesignTimeResolveAssemblyReferences.cache, 
+CheckBox/CheckBox/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache, 
+CheckBox/CheckBox/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs, 
+CheckBox/CheckBox/obj/Release/CheckBox.csproj.AssemblyReference.cache, 
+CheckBox/CheckBox/App.config, 
+CheckBox/CheckBox/CheckBox.csproj, 
+CheckBox/CheckBox/Form1.Designer.cs, 
+CheckBox/CheckBox/Form1.cs, 
+CheckBox/CheckBox/Form1.resx, 
+CheckBox/CheckBox/Program.cs, 
+CheckBox/CheckBox.sln)
+<!----Separador---->
 ###### cbox - 09/06/20
 (cbox/cbox/Properties/AssemblyInfo.cs, 
 cbox/cbox/Properties/Resources.Designer.cs, 
@@ -307,6 +338,5 @@ PracticaUsoDeTablas/manifest.mf)
 
 <!--
 Faltan de agregar estos proyectos:
-###### CheckBox - 06/06/20
 ###### Ejercicios - 05/06/20
 -->
