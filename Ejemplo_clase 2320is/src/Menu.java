@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 
 public class Menu {
-    
     int opcion;
     Scanner leer = new Scanner (System.in);
 
@@ -14,7 +13,7 @@ public class Menu {
         System.out.println("Opción 2: Calculo de Perímetro y area de cuadrado");
         System.out.println("Opción 3: Calculo de Perímetro y area de rectángulo");
         opcion = leer.nextInt();
-        
+
         switch (opcion)
         {
             case 1:
@@ -33,7 +32,7 @@ public class Menu {
 
                 double x = triangulo1.Perimetro (triangulo1.getBase());
                 System.out.println("El Perímetro es: " + x);
-        
+
                 System.out.println("El area es : " + triangulo1.area(triangulo1.getBase(),triangulo1.getAltura()));
             break;
         }
