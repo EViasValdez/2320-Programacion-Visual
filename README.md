@@ -11,6 +11,10 @@ He aquí varios archivos del cuatrimestre que empezamos de manera virtual, mas e
 **- Quizá uno que otro archivo se agregue debido a que tuve que probar el funcionamiento de las aplicaciones.**
 
 **- El framework de .NET utilizado para programas con Windows Forms es la version 4.8, cambiada de la version 4.7 en la que estaban los documentos originales.**
+
+**- Logre quitar los eventos que varios labels contenian especialmente en el programa Escuela2.**
+
+**- Ya funcionan de forma correcta todos los programas.**
 <!----Separador---->
 
 <!----Directorio con ubicación de archivos---->
