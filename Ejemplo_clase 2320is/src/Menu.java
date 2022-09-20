@@ -9,9 +9,9 @@ public class Menu {
     public void menu1()
     {
         System.out.println("MENU");
-        System.out.println("Opción 1: Calculo de Perímetro y area de triangulo");
-        System.out.println("Opción 2: Calculo de Perímetro y area de cuadrado");
-        System.out.println("Opción 3: Calculo de Perímetro y area de rectángulo");
+        System.out.println("Opcion 1: Calculo de perimetro y area de triangulo");
+        System.out.println("Opcion 2: Calculo de perimetro y area de cuadrado");
+        System.out.println("Opcion 3: Calculo de perimetro y area de rectángulo");
         opcion = leer.nextInt();
 
         switch (opcion)
@@ -31,7 +31,7 @@ public class Menu {
                 // Se manda a llamar al método "perímetro".
 
                 double x = triangulo1.Perimetro (triangulo1.getBase());
-                System.out.println("El Perímetro es: " + x);
+                System.out.println("El Perimetro es: " + x);
 
                 System.out.println("El area es : " + triangulo1.area(triangulo1.getBase(),triangulo1.getAltura()));
             break;
