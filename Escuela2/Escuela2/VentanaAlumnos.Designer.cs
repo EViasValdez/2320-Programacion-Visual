@@ -89,7 +89,6 @@
             this.matricula.Name = "matricula";
             this.matricula.Size = new System.Drawing.Size(130, 22);
             this.matricula.TabIndex = 3;
-            this.matricula.TextChanged += new System.EventHandler(this.matricula_TextChanged);
             this.matricula.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
             // 
             // nombre
@@ -298,7 +297,6 @@
             this.Controls.Add(this.label1);
             this.Name = "Alumnos";
             this.Text = "VentanaAlumnos";
-            this.Load += new System.EventHandler(this.VentanaAlumnos_Load);
             ((System.ComponentModel.ISupportInitialize)(this.edad1)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

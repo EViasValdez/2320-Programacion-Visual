@@ -70,7 +70,6 @@
             this.txbcalificacion2.Name = "txbcalificacion2";
             this.txbcalificacion2.Size = new System.Drawing.Size(233, 22);
             this.txbcalificacion2.TabIndex = 5;
-            this.txbcalificacion2.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // label3
             // 
@@ -103,7 +102,6 @@
             this.txbalumno2.Name = "txbalumno2";
             this.txbalumno2.Size = new System.Drawing.Size(220, 22);
             this.txbalumno2.TabIndex = 1;
-            this.txbalumno2.TextChanged += new System.EventHandler(this.txbalumno_TextChanged);
             // 
             // label1
             // 
@@ -170,7 +168,6 @@
             this.Mostrar.TabIndex = 7;
             this.Mostrar.Text = "Mostrar datos en la tabla";
             this.Mostrar.UseVisualStyleBackColor = true;
-            this.Mostrar.Click += new System.EventHandler(this.Mostrar_Click);
             // 
             // VentanaCalificaciones
             // 
@@ -187,7 +184,6 @@
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvinfo2)).EndInit();
             this.ResumeLayout(false);
-
         }
 
         #endregion

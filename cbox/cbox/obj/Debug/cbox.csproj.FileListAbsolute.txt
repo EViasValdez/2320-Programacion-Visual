@@ -18,3 +18,14 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Deb
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.csproj.CoreCompileInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.exe
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.pdb
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\cbox\cbox\bin\Debug\cbox.exe.config
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\cbox\cbox\bin\Debug\cbox.exe
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\cbox\cbox\bin\Debug\cbox.pdb
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.csproj.SuggestedBindingRedirects.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.Form1.resources
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.Properties.Resources.resources
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.csproj.GenerateResource.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.exe
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.pdb

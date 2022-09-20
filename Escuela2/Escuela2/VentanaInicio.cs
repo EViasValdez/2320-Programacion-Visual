@@ -31,8 +31,13 @@ namespace Escuela2
             }
             else
             {
-                MessageBox.Show("Contraseña incorrecta, por favor intente de nuevo");
+                MessageBox.Show("Nombre o contraseña incorrecta, por favor intente de nuevo");
             }
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

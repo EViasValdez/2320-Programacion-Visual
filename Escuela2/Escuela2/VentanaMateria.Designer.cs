@@ -67,7 +67,6 @@
             this.label1.Size = new System.Drawing.Size(496, 29);
             this.label1.TabIndex = 0;
             this.label1.Text = "Universidad Politecnica De Tecamac";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // groupBox1
             // 
@@ -230,7 +229,6 @@
             this.txbxidmateria.Name = "txbxidmateria";
             this.txbxidmateria.Size = new System.Drawing.Size(138, 22);
             this.txbxidmateria.TabIndex = 2;
-            this.txbxidmateria.TextChanged += new System.EventHandler(this.txbxidmateria_TextChanged_1);
             // 
             // label3
             // 
@@ -249,7 +247,6 @@
             this.label2.Size = new System.Drawing.Size(100, 16);
             this.label2.TabIndex = 0;
             this.label2.Text = "Id de la materia";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // pictureBox2
             // 
@@ -284,7 +281,6 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "VentanaMateria";
             this.Text = "Materia";
-            this.Load += new System.EventHandler(this.VentanaMateria_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnregistrar)).EndInit();

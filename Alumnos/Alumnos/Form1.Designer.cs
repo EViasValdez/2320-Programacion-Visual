@@ -71,7 +71,6 @@
             this.label2.Size = new System.Drawing.Size(78, 20);
             this.label2.TabIndex = 1;
             this.label2.Text = "Matricula";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 
@@ -83,11 +82,9 @@
             this.label3.Size = new System.Drawing.Size(68, 20);
             this.label3.TabIndex = 2;
             this.label3.Text = "Nombre";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // textBox1
             // 
-            this.textBox1.Enabled = false;
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(117, 134);
             this.textBox1.Margin = new System.Windows.Forms.Padding(4);
@@ -143,7 +140,6 @@
             this.label4.Size = new System.Drawing.Size(47, 20);
             this.label4.TabIndex = 6;
             this.label4.Text = "Edad";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // masculino
             // 
@@ -195,7 +191,6 @@
             this.label5.Size = new System.Drawing.Size(73, 20);
             this.label5.TabIndex = 8;
             this.label5.Text = "Telefono";
-            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // telefono
             // 
@@ -218,7 +213,6 @@
             this.label6.Size = new System.Drawing.Size(174, 20);
             this.label6.TabIndex = 10;
             this.label6.Text = "Entidad de nacimiento";
-            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // entidad
             // 
