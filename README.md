@@ -1,6 +1,6 @@
 # Programacion visual
 <!----Descripción---->
-He aquí varios archivos del cuatrimestre que empezamos de manera virtual, mas específicamente de programación virtual, mayoritariamente usando el motor de ventanas Java Swing a traves de NetBeans ademas de algunos proyectos realizados en Windows Forms usando Visual Studio Community.
+He aquí varios archivos del cuatrimestre que empezamos de manera virtual, más específicamente de programación virtual, mayoritariamente usando el motor de ventanas Java Swing a través de NetBeans además de algunos proyectos realizados en Windows Forms usando Visual Studio Community.
 <!----Separador de la descripción ---->
 
 <!----Notas---->
@@ -12,7 +12,7 @@ He aquí varios archivos del cuatrimestre que empezamos de manera virtual, mas e
 
 **- El framework de .NET utilizado para programas con Windows Forms es la version 4.8, cambiada de la version 4.7 en la que estaban los documentos originales.**
 
-**- Logre quitar los eventos que varios labels contenian especialmente en el programa Escuela2.**
+**- Logre quitar los eventos que varios labels contenían especialmente en el programa Escuela2.**
 
 **- Ya funcionan de forma correcta todos los programas.**
 <!----Separador---->
