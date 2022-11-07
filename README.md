@@ -6,7 +6,7 @@ He aquí varios archivos del cuatrimestre que empezamos de manera virtual, más 
 <!----Notas---->
 **Notas**
 
-**- Algunos proyectos (en Java) necesitan de extensiones como jCalendar y MySQL Connector.**
+**- Algunos proyectos (en Java) necesitan de extensiones como jCalendar y MySQL Connector para realizar funciones relacionadas.**
 
 **- Quizá uno que otro archivo se agregue debido a que tuve que probar el funcionamiento de las aplicaciones.**
 
