@@ -42,7 +42,7 @@ public class VentanaB extends javax.swing.JFrame {
         jScrollPane2 = new javax.swing.JScrollPane();
         jlistNombres = new javax.swing.JList<>();
 
-        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
 
         PanelDos.setBackground(new java.awt.Color(243, 239, 0));
         PanelDos.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
