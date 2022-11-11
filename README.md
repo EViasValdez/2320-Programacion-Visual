@@ -6,15 +6,13 @@ He aquí varios archivos del cuatrimestre que empezamos de manera virtual, más 
 <!----Notas---->
 **Notas**
 
-**- Algunos proyectos (en Java) necesitan de extensiones como jCalendar y MySQL Connector para realizar funciones relacionadas.**
+**- Algunos programas de Java necesitan de extensiones como jCalendar y MySQL Connector para realizar funciones relacionadas.**
 
 **- Quizá uno que otro archivo se agregue debido a que tuve que probar el funcionamiento de las aplicaciones.**
 
 **- El framework de .NET utilizado para programas con Windows Forms es la version 4.8, cambiada de la version 4.7 en la que estaban los documentos originales.**
 
-**- Logre quitar los eventos que varios labels contenían especialmente en el programa Escuela2.**
-
-**- Ya funcionan de forma correcta todos los programas.**
+**- Logre quitar los eventos que varios labels contenían especialmente en el programa Escuela2 y que no eran utilizados.**
 <!----Separador---->
 
 <!----Directorio con ubicación de archivos---->
