@@ -18,7 +18,7 @@ He aquí varios archivos del cuatrimestre que empezamos de manera virtual, más 
 
 **- Logre quitar los eventos que varios labels contenían especialmente en el programa Escuela2 y que no eran utilizados por el programa.**
 
-<!----Separador---->
+<!----Separador de las notas---->
 
 <!----Directorio con ubicación de archivos---->
 
