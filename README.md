@@ -17,7 +17,6 @@ He aquí varios archivos del cuatrimestre que empezamos de manera virtual, más 
 <!----Separador de las notas---->
 
 <!----Directorio con ubicación de archivos---->
-
 # Directorio de archivos
 
 ## ● Unidad 1 ●
