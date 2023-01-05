@@ -17,7 +17,7 @@ He aquí varios archivos del cuatrimestre que empezamos de manera virtual, más 
 <!----Separador de las notas---->
 
 <!----Directorio con descripcion de los programas---->
-# Directorio de archivos
+# Descripcion de los programas
 
 ## ● Unidad 1 ●
 ###### Ejemplo_clase 2320is - 13/05/20
@@ -26,17 +26,17 @@ Texto por ser escrito.
 <!----Separador---->
 
 ###### Ejercicios - 05/06/20
-Texto por ser escrito.
+Programa simple para activarlo cuando se presione un boton.
 
 <!----Separador---->
 
 ###### Practica - 05/06/20
-Texto por ser escrito.
+Trabajo sin finalizar de un programa el cual no tuvo mucho avance.
 
 <!----Separador---->
 
 ###### CheckBox - 06/06/20
-Texto por ser escrito.
+Prueba del elemento CheckBox.
 
 <!----Separador---->
 
