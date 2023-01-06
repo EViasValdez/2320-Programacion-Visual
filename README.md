@@ -31,7 +31,7 @@ Programa simple para activarlo cuando se presione un boton.
 <!----Separador---->
 
 ###### Practica - 05/06/20
-Trabajo sin finalizar de un programa el cual no tuvo mucho avance.
+Trabajo sin finalizar el cual no tuvo mucho avance.
 
 <!----Separador---->
 
