@@ -3,31 +3,31 @@ import java.util.Scanner;
 
 public class Triangulo extends Figura {
     
-    private double base, altura;
+    private double Base, Altura;
     
     public Triangulo()
     {
-        this.base = 0;
-        this.altura = 0;
+        this.Base = 0;
+        this.Altura = 0;
     }
     public double getBase() {
-        return base;
+        return Base;
     }
-    public void setBase(double base) {
-        this.base = base;
+    public void setBase(double Base) {
+        this.Base = Base;
     }
     public double getAltura() {
-        return altura;
+        return Altura;
     }
-    public void setAltura(double altura) {
-        this.altura = altura;
+    public void setAltura(double Altura) {
+        this.Altura = Altura;
     }
     public double Perimetro(double num)
     {
         return num + num + num;
     }
-    public double area(double base, double altura)
+    public double area(double Base, double Altura)
     {
-        return (base * altura ) / 2;
+        return (Base * Altura ) / 2;
     }
 }
