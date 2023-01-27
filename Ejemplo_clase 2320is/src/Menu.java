@@ -28,7 +28,7 @@ public class Menu {
                 triangulo1.setBase(leer.nextInt());
                 System.out.println("Ingresa la altura del triangulo");
                 triangulo1.setAltura(leer.nextInt());
-                // Se manda a llamar al método "perímetro".
+                // Se manda a llamar al método "Perímetro".
 
                 double x = triangulo1.Perimetro (triangulo1.getBase());
                 System.out.println("El Perimetro es: " + x);
