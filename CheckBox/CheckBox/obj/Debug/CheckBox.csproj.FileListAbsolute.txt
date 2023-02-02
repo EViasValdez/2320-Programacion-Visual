@@ -28,3 +28,5 @@ D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\CheckBox\CheckBox\
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\CheckBox\CheckBox\obj\Debug\CheckBox.csproj.CoreCompileInputs.cache
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\CheckBox\CheckBox\obj\Debug\CheckBox.exe
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\CheckBox\CheckBox\obj\Debug\CheckBox.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\CheckBox\CheckBox\obj\Debug\CheckBox.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\CheckBox\CheckBox\obj\Debug\CheckBox.csproj.SuggestedBindingRedirects.cache
