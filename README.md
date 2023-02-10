@@ -41,7 +41,7 @@ Prueba del elemento CheckBox.
 <!----Separador---->
 
 ###### cbox - 09/06/20
-Texto por ser escrito.
+Segunda prueba del elemento CheckBox.
 
 <!----Separador---->
 
