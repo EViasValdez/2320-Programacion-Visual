@@ -57,7 +57,7 @@ namespace Alumnos
         }
         public override string ToString()
         {
-            return "ALUMNO: \n " +
+            return "Alumno: \n " +
                    "Matricula: " + mat + "\n" +
                    "Nombre: " + nom + "\n" +
                    "Edad: " + edad + "\n" +
