@@ -40,7 +40,7 @@ Prueba del elemento CheckBox.
 
 <!----Separador---->
 
-###### cbox - 09/06/20
+###### Cbox - 09/06/20
 Segunda prueba del elemento CheckBox.
 
 <!----Separador---->
@@ -54,7 +54,7 @@ Texto por ser escrito.
 Texto por ser escrito.
 
 ## ● Unidad 2 ●
-###### Jpasswordfield - 07/20
+###### JPasswordField - 07/20
 Texto por ser escrito.
 
 <!----Separador---->
