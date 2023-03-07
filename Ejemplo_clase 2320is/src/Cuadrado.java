@@ -8,6 +8,7 @@
  *
  * @author carmen (Correcciones por EViasValdez)
  */
+
 public class Cuadrado {
     
 }

@@ -1,7 +1,6 @@
 
 import java.util.Scanner;
 
-
 public class Menu {
     int opcion;
     Scanner leer = new Scanner (System.in);
