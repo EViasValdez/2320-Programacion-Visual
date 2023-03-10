@@ -9,8 +9,8 @@ package cambox;
  *
  * @author EViasValdez
  */
-public class VentanaA extends javax.swing.JFrame {
 
+public class VentanaA extends javax.swing.JFrame {
     /**
      * Creates new form Combinadobox
      */

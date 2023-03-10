@@ -12,8 +12,8 @@ import javax.swing.JOptionPane;
  *
  * @author EViasValdez
  */
-public class VentanaB extends javax.swing.JFrame {
 
+public class VentanaB extends javax.swing.JFrame {
     DefaultListModel agregar=new DefaultListModel();
     /**
      * Creates new form VentanaB

@@ -12,12 +12,13 @@ import javax.swing.table.DefaultTableModel;
  *
  * @author EViasValdez
  */
-public class UsoDeTablasPractica extends javax.swing.JFrame {
-    DefaultTableModel modelo;
 
+public class UsoDeTablasPractica extends javax.swing.JFrame {
     /**
      * Creates new form UsoDeTablasPractica
      */
+    DefaultTableModel modelo;
+    
     public UsoDeTablasPractica() {
         initComponents();
         modelo = new DefaultTableModel();

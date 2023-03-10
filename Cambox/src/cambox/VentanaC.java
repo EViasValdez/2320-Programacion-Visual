@@ -11,8 +11,8 @@ import javax.swing.JOptionPane;
  *
  * @author EViasValdez
  */
-public class VentanaC extends javax.swing.JFrame {
 
+public class VentanaC extends javax.swing.JFrame {
     /**
      * Creates new form VentanaC
      */

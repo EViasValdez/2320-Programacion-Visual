@@ -9,8 +9,8 @@ package combox;
  *
  * @author EViasValdez
  */
-public class Checkboxradiobutton extends javax.swing.JFrame {
 
+public class Checkboxradiobutton extends javax.swing.JFrame {
     /**
      * Creates new form combobox
      */
