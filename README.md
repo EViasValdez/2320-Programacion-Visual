@@ -46,7 +46,7 @@ Segunda prueba del elemento CheckBox.
 <!----Separador---->
 
 ###### Alumnos - 11/06/20
-Texto por ser escrito.
+Programa de ingreso de alumnos.
 
 <!----Separador---->
 
