@@ -2,13 +2,13 @@ public class Figura {
     private String Nombre;
     private int NumLados;
 
-    // Constructor vació
+    // Constructor vacio.
     public Figura()
     {
         this.Nombre = null;
         this.NumLados = 0;
     }
-     // Constructor con parámetros
+     // Constructor con parámetros.
     public Figura(String Nom, int Num)
     {
         this.Nombre = Nom;
