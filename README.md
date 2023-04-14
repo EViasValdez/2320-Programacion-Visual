@@ -70,5 +70,4 @@ Texto por ser escrito.
 
 ###### PracticaUsoDeTablas - 08/20
 Texto por ser escrito.
-
 <!----Separador del directorio con ubicación de archivos---->
