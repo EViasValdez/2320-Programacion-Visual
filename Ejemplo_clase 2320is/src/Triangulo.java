@@ -8,23 +8,23 @@ public class Triangulo extends Figura {
         this.Base = 0;
         this.Altura = 0;
     }
-    public double getBase() {
+    public double GetBase() {
         return Base;
     }
     public void setBase(double Base) {
         this.Base = Base;
     }
-    public double getAltura() {
+    public double GetAltura() {
         return Altura;
     }
-    public void setAltura(double Altura) {
+    public void SetAltura(double Altura) {
         this.Altura = Altura;
     }
     public double Perimetro(double num)
     {
         return num + num + num;
     }
-    public double area(double Base, double Altura)
+    public double Area(double Base, double Altura)
     {
         return (Base * Altura ) / 2;
     }

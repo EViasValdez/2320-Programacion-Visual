@@ -14,7 +14,7 @@ public class Figura {
         this.Nombre = Nom;
         this.NumLados = Num;
     }
-    public void setNombre(String Nom)
+    public void SetNombre(String Nom)
     {
         this.Nombre = Nom;
     }
@@ -22,10 +22,10 @@ public class Figura {
     {
         return this.Nombre;
     }
-    public int getNum_lados() {
+    public int GetNumLados() {
         return NumLados;
     }
-    public void setNum_lados(int NumLados) {
+    public void SetNumLados(int NumLados) {
         this.NumLados = NumLados;
     }
 }

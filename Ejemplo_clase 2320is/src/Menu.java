@@ -2,8 +2,8 @@
 import java.util.Scanner;
 
 public class Menu {
-    int opcion;
-    Scanner leer = new Scanner (System.in);
+    int Opcion;
+    Scanner Leer = new Scanner (System.in);
 
     public void menu1()
     {
@@ -11,28 +11,28 @@ public class Menu {
         System.out.println("Opcion 1: Calculo de perimetro y area de triangulo");
         System.out.println("Opcion 2: Calculo de perimetro y area de cuadrado");
         System.out.println("Opcion 3: Calculo de perimetro y area de rectángulo");
-        opcion = leer.nextInt();
+        Opcion = Leer.nextInt();
 
-        switch (opcion)
+        switch (Opcion)
         {
             case 1:
-                Triangulo triangulo1 = new Triangulo();
+                Triangulo Triangulo1 = new Triangulo();
                 System.out.println("Calculo de Perímetro del triangulo");
-                leer.nextLine();
+                Leer.nextLine();
                 System.out.println("Nombre de la figura");
-                triangulo1.setNombre(leer.nextLine());
+                Triangulo1.SetNombre(Leer.nextLine());
                 System.out.println("Numero de lados");
-                triangulo1.setNum_lados(leer.nextInt());
+                Triangulo1.SetNumLados(Leer.nextInt());
                 System.out.println("Ingresa la base del triangulo");
-                triangulo1.setBase(leer.nextInt());
+                Triangulo1.SetBase(Leer.nextInt());
                 System.out.println("Ingresa la altura del triangulo");
-                triangulo1.setAltura(leer.nextInt());
+                Triangulo1.SetAltura(Leer.nextInt());
                 // Se manda a llamar al método "Perímetro".
 
-                double x = triangulo1.Perimetro (triangulo1.getBase());
+                double x = Triangulo1.Perimetro (Triangulo1.getBase());
                 System.out.println("El Perimetro es: " + x);
 
-                System.out.println("El area es : " + triangulo1.area(triangulo1.getBase(),triangulo1.getAltura()));
+                System.out.println("El area es : " + Triangulo1.area(Triangulo1.getBase(),Triangulo1.getAltura()));
             break;
         }
     }
