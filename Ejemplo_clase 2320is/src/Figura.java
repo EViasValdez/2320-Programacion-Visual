@@ -18,7 +18,7 @@ public class Figura {
     {
         this.Nombre = Nom;
     }
-    public String getNombre()
+    public String GetNombre()
     {
         return this.Nombre;
     }

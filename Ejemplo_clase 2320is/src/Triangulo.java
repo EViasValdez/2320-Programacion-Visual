@@ -11,7 +11,7 @@ public class Triangulo extends Figura {
     public double GetBase() {
         return Base;
     }
-    public void setBase(double Base) {
+    public void SetBase(double Base) {
         this.Base = Base;
     }
     public double GetAltura() {

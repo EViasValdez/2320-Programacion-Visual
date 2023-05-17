@@ -29,10 +29,10 @@ public class Menu {
                 Triangulo1.SetAltura(Leer.nextInt());
                 // Se manda a llamar al método "Perímetro".
 
-                double x = Triangulo1.Perimetro (Triangulo1.getBase());
+                double x = Triangulo1.Perimetro (Triangulo1.GetBase());
                 System.out.println("El Perimetro es: " + x);
 
-                System.out.println("El area es : " + Triangulo1.area(Triangulo1.getBase(),Triangulo1.getAltura()));
+                System.out.println("El area es : " + Triangulo1.Area(Triangulo1.GetBase(),Triangulo1.GetAltura()));
             break;
         }
     }
