@@ -1,9 +1,5 @@
 # Programacion visual
 
-<!----Descripción---->
-He aquí varios archivos del cuatrimestre que empezamos de manera virtual, más específicamente de programación virtual, mayoritariamente usando el motor de ventanas Java Swing a través de NetBeans además de algunos proyectos realizados en Windows Forms usando Visual Studio Community 2017.
-<!----Separador de la descripción ---->
-
 <!----Notas---->
 **Notas**
 
