@@ -17,7 +17,7 @@
 
 ## ● Unidad 1 ●
 ###### Ejemplo_clase 2320is - 13/05/20
-Texto por ser escrito.
+Calculo del area de varias figuras.
 
 <!----Separador---->
 
@@ -47,11 +47,11 @@ Programa de ingreso de alumnos.
 <!----Separador---->
 
 ###### Combox - 06/20
-Texto por ser escrito.
+Prueba de la utilizacion del ComboBox.
 
 ## ● Unidad 2 ●
 ###### JPasswordField - 07/20
-Texto por ser escrito.
+Utilizacion del JPasswordField.
 
 <!----Separador---->
 
@@ -60,7 +60,7 @@ Texto por ser escrito.
 
 ## ● Unidad 3 ●
 ###### Escuela2 - 12, 20/06/20
-Texto por ser escrito.
+Programa de registro y consulta de alumnos de la universidad.
 
 <!----Separador---->
 
