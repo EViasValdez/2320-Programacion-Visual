@@ -56,14 +56,14 @@ Utilizacion del JPasswordField.
 <!----Separador---->
 
 ###### Cambox - 07/20
-Texto por ser escrito.
+Tercer trabajo que utiliza elementos de ComboBox.
 
 ## ● Unidad 3 ●
 ###### Escuela2 - 12, 20/06/20
-Programa de registro y consulta de alumnos de la universidad.
+Programa de registro y consulta de alumnos de la universidad, programado en Windows Forms.
 
 <!----Separador---->
 
 ###### PracticaUsoDeTablas - 08/20
-Texto por ser escrito.
+Uso de tablas en un programa.
 <!----Separador del directorio con ubicación de archivos---->
