@@ -17,9 +17,5 @@ namespace cbox
             InitializeComponent();
             this.BackColor = Color.FromArgb(150, 255, 161);
         }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-        }
     }
 }
