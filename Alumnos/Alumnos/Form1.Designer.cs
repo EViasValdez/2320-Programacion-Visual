@@ -91,7 +91,6 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(201, 26);
             this.textBox1.TabIndex = 3;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             this.textBox1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
             // 
             // nombre
@@ -102,7 +101,6 @@
             this.nombre.Name = "nombre";
             this.nombre.Size = new System.Drawing.Size(201, 26);
             this.nombre.TabIndex = 4;
-            this.nombre.TextChanged += new System.EventHandler(this.nombre_TextChanged);
             this.nombre.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox2_KeyPress);
             // 
             // edad1
@@ -128,7 +126,6 @@
             0,
             0,
             0});
-            this.edad1.ValueChanged += new System.EventHandler(this.edad1_ValueChanged);
             // 
             // label4
             // 
@@ -153,7 +150,6 @@
             this.masculino.TabIndex = 7;
             this.masculino.TabStop = false;
             this.masculino.Text = "Sexo";
-            this.masculino.Enter += new System.EventHandler(this.masculino_Enter);
             // 
             // masc
             // 
@@ -200,7 +196,6 @@
             this.telefono.Name = "telefono";
             this.telefono.Size = new System.Drawing.Size(192, 26);
             this.telefono.TabIndex = 9;
-            this.telefono.TextChanged += new System.EventHandler(this.telefono_TextChanged);
             this.telefono.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox3_KeyPress);
             // 
             // label6
@@ -281,7 +276,6 @@
             this.groupBox2.TabIndex = 13;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Datos del alumno";
-            this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
             // 
             // Datos
             // 
@@ -292,7 +286,6 @@
             this.Datos.Size = new System.Drawing.Size(575, 230);
             this.Datos.TabIndex = 0;
             this.Datos.Text = "";
-            this.Datos.TextChanged += new System.EventHandler(this.Datos_TextChanged);
             // 
             // Form1
             // 

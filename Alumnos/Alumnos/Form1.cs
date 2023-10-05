@@ -77,6 +77,7 @@ namespace Alumnos
                 alumno.entid = entidad.Items.ToString();
             }
         }
+
         public void limpiar()
         {
             nombre.Text = null;
@@ -85,66 +86,6 @@ namespace Alumnos
             femen.Checked = false;
             masc.Checked = false;
             entidad.SelectedIndex = 0;
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void groupBox2_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label6_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void telefono_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void masculino_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void edad1_ValueChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void nombre_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Datos_TextChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
