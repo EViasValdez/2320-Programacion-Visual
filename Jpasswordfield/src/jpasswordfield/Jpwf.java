@@ -123,14 +123,14 @@ public class Jpwf extends javax.swing.JFrame {
 
     private void IngresarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_IngresarActionPerformed
         // TODO add your handling code here:
-        String usuario = Campousario.getText();
-        String contraseña = Campocontraseña.getText();
+        String Usuario = Campousario.getText();
+        String Contraseña = Campocontraseña.getText();
 
-        if (usuario.isEmpty() || contraseña.isEmpty()){
+        if (Usuario.isEmpty() || Contraseña.isEmpty()){
             JOptionPane.showMessageDialog(null, "Ingrese una contraseña correcta");
         }
         else{
-        if (usuario.equals("JoValdez") && contraseña.equals("rs96"))
+        if (Usuario.equals("JoValdez") && Contraseña.equals("rs96"))
         {
             JOptionPane.showMessageDialog(null, "Sea usted bienvenido");
         }

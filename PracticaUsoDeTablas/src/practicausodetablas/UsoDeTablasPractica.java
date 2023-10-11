@@ -17,15 +17,15 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
     /**
      * Creates new form UsoDeTablasPractica
      */
-    DefaultTableModel modelo;
+    DefaultTableModel Modelo;
     
     public UsoDeTablasPractica() {
         initComponents();
-        modelo = new DefaultTableModel();
-        modelo.addColumn("Nombre");
-        modelo.addColumn("Apellido");
-        modelo.addColumn("Teléfono");
-        this.Tabla.setModel(modelo);
+        Modelo = new DefaultTableModel();
+        Modelo.addColumn("Nombre");
+        Modelo.addColumn("Apellido");
+        Modelo.addColumn("Teléfono");
+        this.Tabla.setModel(Modelo);
     }
 
     /**
@@ -236,9 +236,9 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
 
     private void EliminarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_EliminarActionPerformed
         // TODO add your handling code here:
-        int filaselecta = Tabla.getSelectedRow();
-        if (filaselecta >= 0){
-            modelo.removeRow(filaselecta);
+        int FilaSelecta = Tabla.getSelectedRow();
+        if (FilaSelecta >= 0){
+            Modelo.removeRow(FilaSelecta);
         }
         else{
             JOptionPane.showMessageDialog(null, "Tabla vacía o no selecciono ninguna fila");
@@ -247,9 +247,9 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
 
     private void EliminarTodoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_EliminarTodoActionPerformed
         // TODO add your handling code here:
-        int cantidadfilas = Tabla.getRowCount();
-        for (int i = cantidadfilas - 1; i >= 0; i++){
-            modelo.removeRow(i);
+        int CantidadFilas = Tabla.getRowCount();
+        for (int i = CantidadFilas - 1; i >= 0; i++){
+            Modelo.removeRow(i);
         }
     }//GEN-LAST:event_EliminarTodoActionPerformed
 
@@ -261,7 +261,7 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
         // TODO add your handling code here:
         int fila = Integer.parseInt(Fila.getText());
         int col = Integer.parseInt(Columna.getText());
-        modelo.setValueAt(NuevoValor.getText(), fila, col);
+        Modelo.setValueAt(NuevoValor.getText(), fila, col);
     }//GEN-LAST:event_ModificarActionPerformed
 
     private void EnviarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_EnviarActionPerformed
@@ -273,7 +273,7 @@ public class UsoDeTablasPractica extends javax.swing.JFrame {
         Apellidos.setText(null);
         Datos [2] = Telefonos.getText();
         Telefonos.setText(null);
-        modelo.addRow(Datos);
+        Modelo.addRow(Datos);
     }//GEN-LAST:event_EnviarActionPerformed
 
     /**

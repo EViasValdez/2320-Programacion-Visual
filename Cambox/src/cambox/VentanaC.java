@@ -140,9 +140,9 @@ public class VentanaC extends javax.swing.JFrame {
 
     private void Numero1KeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_Numero1KeyTyped
         // TODO add your handling code here:
-        char validar = evt.getKeyChar();
+        char Validar = evt.getKeyChar();
 
-        if (Character.isLetter(validar)){
+        if (Character.isLetter(Validar)){
             getToolkit().beep();
             evt.consume();
 
@@ -152,23 +152,23 @@ public class VentanaC extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
-        double Num1=Double.parseDouble(Numero1.getText());
-        double Num2=Double.parseDouble(Numero2.getText());
-        String operacion=Operaciones.getSelectedItem().toString();
-        int oper=Operaciones.getSelectedIndex();
-        if (oper == 0){
+        double Num1 = Double.parseDouble(Numero1.getText());
+        double Num2 = Double.parseDouble(Numero2.getText());
+        String operacion = Operaciones.getSelectedItem().toString();
+        int Oper = Operaciones.getSelectedIndex();
+        if (Oper == 0){
             Resultado.setText(String.valueOf(Num1+Num2));
         }
-        else{
-        if (oper == 1){
+        else {
+        if (Oper == 1){
             Resultado.setText(String.valueOf(Num1-Num2));
         }
-        else{
-        if (oper == 2){
+        else {
+        if (Oper == 2){
             Resultado.setText(String.valueOf(Num1*Num2));
         }
-        else{
-        if (oper == 3){
+        else {
+        if (Oper == 3){
             Resultado.setText(String.valueOf(Num1/Num2));    
         }
         }

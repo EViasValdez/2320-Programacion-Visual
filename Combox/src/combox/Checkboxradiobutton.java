@@ -310,36 +310,36 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
 
     private void etiOrdenActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_etiOrdenActionPerformed
         // TODO add your handling code here:
-        String mensaje = "Usted selecciono: ";
-        String mensaje1 = "El precio es: ";
+        String Mensaje = "Usted selecciono: ";
+        String Mensaje1 = "El precio es: ";
         if (chkManzana.isSelected()){
-            mensaje = mensaje + "Manzana ";
+            Mensaje = Mensaje + "Manzana ";
         }
         if (chkPiña.isSelected()){
-            mensaje = mensaje + "Piña ";
+            Mensaje = Mensaje + "Piña ";
         }
         if (chkFresa.isSelected()){
-            mensaje = mensaje + "Fresa ";
+            Mensaje = Mensaje + "Fresa ";
         }
         if (chkPapaya.isSelected()){
-            mensaje = mensaje + "Papaya ";
+            Mensaje = Mensaje + "Papaya ";
         }    
         if (chkDurazno.isSelected()){
-            mensaje = mensaje +  "Durazno ";
+            Mensaje = Mensaje +  "Durazno ";
         }    
         if (chkMelon.isSelected()){
-            mensaje = mensaje + "Melon ";
+            Mensaje = Mensaje + "Melon ";
         }
         if (radChico.isSelected()){
-            mensaje = mensaje + "Tamaño: chico ";
+            Mensaje = Mensaje + "Tamaño: chico ";
         }
         if (radMediano.isSelected()){
-            mensaje = mensaje + "Tamaño: mediano ";
+            Mensaje = Mensaje + "Tamaño: mediano ";
         }
         if (radGrande.isSelected()){
-            mensaje = mensaje + "Tamaño: grande";
+            Mensaje = Mensaje + "Tamaño: grande";
         }
-        Mostrar.setText(mensaje);
+        Mostrar.setText(Mensaje);
     }//GEN-LAST:event_etiOrdenActionPerformed
 
     private void radChicoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_radChicoActionPerformed
@@ -348,37 +348,37 @@ public class Checkboxradiobutton extends javax.swing.JFrame {
 
     private void etiOrden1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_etiOrden1ActionPerformed
         // TODO add your handling code here:
-        String mensaje = " ";
+        String Mensaje = " ";
         
         if (chkPiña.isSelected()){
-            mensaje = mensaje + "  ";
+            Mensaje = Mensaje + "  ";
         }
         if (chkFresa.isSelected()){
-            mensaje = mensaje + "  ";
+            Mensaje = Mensaje + "  ";
         }
         if (chkPapaya.isSelected()){
-            mensaje = mensaje + "  ";
+            Mensaje = Mensaje + "  ";
         }    
         if (chkDurazno.isSelected()){
-            mensaje = mensaje +  "  ";
+            Mensaje = Mensaje +  "  ";
         }    
         if (chkMelon.isSelected()){
-            mensaje = mensaje + "  ";
+            Mensaje = Mensaje + "  ";
         }
         if (radChico.isSelected())
         {
-            mensaje = mensaje + "  ";
+            Mensaje = Mensaje + "  ";
         }
         if (radMediano.isSelected())
         {
-            mensaje = mensaje + "  ";
+            Mensaje = Mensaje + "  ";
         }
         if (radGrande.isSelected())
         {
-            mensaje = mensaje + "  ";
+            Mensaje = Mensaje + "  ";
         }
 
-        Mostrar.setText(mensaje);
+        Mostrar.setText(Mensaje);
     }//GEN-LAST:event_etiOrden1ActionPerformed
 
     /**

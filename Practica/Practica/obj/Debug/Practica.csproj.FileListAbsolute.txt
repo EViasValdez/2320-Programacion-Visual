@@ -29,4 +29,3 @@ D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\Practica\Practica\
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\Practica\Practica\obj\Debug\Practica.exe
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\Practica\Practica\obj\Debug\Practica.pdb
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Practica\Practica\obj\Debug\Practica.csproj.AssemblyReference.cache
-D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Practica\Practica\obj\Debug\Practica.csproj.SuggestedBindingRedirects.cache
