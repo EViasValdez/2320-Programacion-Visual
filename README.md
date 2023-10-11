@@ -9,7 +9,7 @@
 
 **- El framework de .NET utilizado para programas con Windows Forms es la version 4.8, cambiada de la version 4.7 en la que estaban los documentos originales.**
 
-**- Logre quitar los eventos que varios labels contenían especialmente en el programa Escuela2 y que no estaban siendo utilizados por el programa.**
+**- Logre quitar los eventos que varios labels contenían especialmente en el programa Escuela2 y que no estaban siendo utilizados por el programa, esto tambien aplica a los otros programas.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripcion de los programas---->
