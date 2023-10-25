@@ -21,3 +21,11 @@ D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\Ejercicios\Ejercic
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\Ejercicios\Ejercicios\obj\Debug\Ejercicios.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe.config
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Ejercicios\Ejercicios\bin\Debug\Ejercicios.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Ejercicios\Ejercicios\obj\Debug\Ejercicios.Form1.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Ejercicios\Ejercicios\obj\Debug\Ejercicios.Properties.Resources.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.GenerateResource.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
