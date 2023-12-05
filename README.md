@@ -9,20 +9,20 @@
 
 **- El framework de .NET utilizado para programas con Windows Forms es la version 4.8, cambiada de la version 4.7 en la que estaban los documentos originales.**
 
-**- Logre quitar los eventos que varios labels contenían algunos programas, especialmente en el programa Escuela2 y que no estaban siendo utilizados por el programa, esto tambien aplica a los otros programas.**
+**- Logre quitar los eventos que varios labels contenían algunos programas, especialmente en el programa Escuela2 y que no estaban siendo utilizados por el programa, esto también aplica a los otros programas.**
 <!----Separador de las notas---->
 
-<!----Directorio con descripcion de los programas---->
-# Descripcion de los programas
+<!----Directorio con descripción de los programas---->
+# Descripción de los programas
 
 ## ● Unidad 1 ●
 ###### Ejemplo_clase 2320is - 13/05/20
-Calculo del area de varias figuras.
+Cálculo del área de varias figuras.
 
 <!----Separador---->
 
 ###### Ejercicios - 05/06/20
-Programa simple para activarlo cuando se presione un boton.
+Programa simple para activarlo cuando se presione un botón.
 
 <!----Separador---->
 
@@ -47,11 +47,11 @@ Programa de ingreso de alumnos.
 <!----Separador---->
 
 ###### Combox - 06/20
-Prueba de la utilizacion del ComboBox.
+Prueba de la utilización del ComboBox.
 
 ## ● Unidad 2 ●
 ###### JPasswordField - 07/20
-Utilizacion del JPasswordField.
+Utilización del JPasswordField.
 
 <!----Separador---->
 
