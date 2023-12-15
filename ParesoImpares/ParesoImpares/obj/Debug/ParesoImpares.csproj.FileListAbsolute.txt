@@ -1,0 +1,10 @@
+E:\ParesoImpares\ParesoImpares\bin\Debug\ParesoImpares.exe.config
+E:\ParesoImpares\ParesoImpares\bin\Debug\ParesoImpares.exe
+E:\ParesoImpares\ParesoImpares\bin\Debug\ParesoImpares.pdb
+E:\ParesoImpares\ParesoImpares\obj\Debug\ParesoImpares.csproj.AssemblyReference.cache
+E:\ParesoImpares\ParesoImpares\obj\Debug\ParesoImpares.Form1.resources
+E:\ParesoImpares\ParesoImpares\obj\Debug\ParesoImpares.Properties.Resources.resources
+E:\ParesoImpares\ParesoImpares\obj\Debug\ParesoImpares.csproj.GenerateResource.cache
+E:\ParesoImpares\ParesoImpares\obj\Debug\ParesoImpares.csproj.CoreCompileInputs.cache
+E:\ParesoImpares\ParesoImpares\obj\Debug\ParesoImpares.exe
+E:\ParesoImpares\ParesoImpares\obj\Debug\ParesoImpares.pdb
