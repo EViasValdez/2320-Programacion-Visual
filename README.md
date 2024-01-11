@@ -5,7 +5,7 @@
 
 **- Algunos programas de Java necesitan de extensiones como jCalendar y MySQL Connector para realizar funciones relacionadas.**
 
-**- Quizá uno que otro archivo se agregue debido a que tuve que probar el funcionamiento de las aplicaciones.**
+**- Quizá uno que otro archivo sea agregado debido a que tuve que probar el funcionamiento de las aplicaciones.**
 
 **- El framework de .NET utilizado para programas con Windows Forms es la version 4.8, cambiada de la version 4.7 en la que estaban los documentos originales.**
 
