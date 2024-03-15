@@ -22,7 +22,7 @@ Cálculo del área de varias figuras.
 <!----Separador---->
 
 ###### Ejercicios - 05/06/20
-Programa simple para activarlo cuando se presione un botón.
+Programa simple para activarlo cuando un botón sea presionado.
 
 <!----Separador---->
 
