@@ -8,3 +8,13 @@ E:\ParesoImpares\ParesoImpares\obj\Debug\ParesoImpares.csproj.GenerateResource.c
 E:\ParesoImpares\ParesoImpares\obj\Debug\ParesoImpares.csproj.CoreCompileInputs.cache
 E:\ParesoImpares\ParesoImpares\obj\Debug\ParesoImpares.exe
 E:\ParesoImpares\ParesoImpares\obj\Debug\ParesoImpares.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\ParesoImpares\ParesoImpares\bin\Debug\ParesoImpares.exe.config
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\ParesoImpares\ParesoImpares\bin\Debug\ParesoImpares.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\ParesoImpares\ParesoImpares\bin\Debug\ParesoImpares.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\ParesoImpares\ParesoImpares\obj\Debug\ParesoImpares.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\ParesoImpares\ParesoImpares\obj\Debug\ParesoImpares.Form1.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\ParesoImpares\ParesoImpares\obj\Debug\ParesoImpares.Properties.Resources.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\ParesoImpares\ParesoImpares\obj\Debug\ParesoImpares.csproj.GenerateResource.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\ParesoImpares\ParesoImpares\obj\Debug\ParesoImpares.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\ParesoImpares\ParesoImpares\obj\Debug\ParesoImpares.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\ParesoImpares\ParesoImpares\obj\Debug\ParesoImpares.pdb
