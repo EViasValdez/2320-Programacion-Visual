@@ -22,10 +22,12 @@ public class Figura {
     {
         return this.Nombre;
     }
-    public int GetNumLados() {
+    public int GetNumLados()
+    {
         return NumLados;
     }
-    public void SetNumLados(int NumLados) {
+    public void SetNumLados(int NumLados)
+    {
         this.NumLados = NumLados;
     }
 }

@@ -19,16 +19,20 @@ public class Triangulo extends Figura {
         this.Base = 0;
         this.Altura = 0;
     }
-    public double GetBase() {
+    public double GetBase()
+    {
         return Base;
     }
-    public void SetBase(double Base) {
+    public void SetBase(double Base)
+    {
         this.Base = Base;
     }
-    public double GetAltura() {
+    public double GetAltura()
+    {
         return Altura;
     }
-    public void SetAltura(double Altura) {
+    public void SetAltura(double Altura)
+    {
         this.Altura = Altura;
     }
     public double Perimetro(double num)
