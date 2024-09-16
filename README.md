@@ -3,7 +3,7 @@
 <!----Notas---->
 **Notas**
 
-**- Algunos programas de Java necesitan de extensiones como jCalendar y MySQL Connector para realizar funciones relacionadas.**
+**- Algunos programas de Java necesitan de extensiones como JCalendar y MySQL Connector para realizar funciones relacionadas.**
 
 **- Quizá uno que otro archivo sea agregado debido a que tuve que probar el funcionamiento de las aplicaciones.**
 
