@@ -19,3 +19,13 @@ D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\Alumnos\Alumnos\ob
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\Alumnos\Alumnos\obj\Debug\Alumnos.csproj.CoreCompileInputs.cache
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\Alumnos\Alumnos\obj\Debug\Alumnos.exe
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\Alumnos\Alumnos\obj\Debug\Alumnos.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Alumnos\Alumnos\bin\Debug\Alumnos.exe.config
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Alumnos\Alumnos\bin\Debug\Alumnos.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Alumnos\Alumnos\bin\Debug\Alumnos.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Alumnos\Alumnos\obj\Debug\Alumnos.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Alumnos\Alumnos\obj\Debug\Alumnos.Form1.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Alumnos\Alumnos\obj\Debug\Alumnos.Properties.Resources.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Alumnos\Alumnos\obj\Debug\Alumnos.csproj.GenerateResource.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Alumnos\Alumnos\obj\Debug\Alumnos.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Alumnos\Alumnos\obj\Debug\Alumnos.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Alumnos\Alumnos\obj\Debug\Alumnos.pdb

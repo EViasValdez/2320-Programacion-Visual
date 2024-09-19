@@ -19,3 +19,13 @@ D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debu
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.csproj.CoreCompileInputs.cache
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.exe
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\cbox\cbox\obj\Debug\cbox.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\CBox\CBox\bin\Debug\CBox.exe.config
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\CBox\CBox\bin\Debug\CBox.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\CBox\CBox\bin\Debug\CBox.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\CBox\CBox\obj\Debug\CBox.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\CBox\CBox\obj\Debug\cbox.Form1.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\CBox\CBox\obj\Debug\CBox.Properties.Resources.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\CBox\CBox\obj\Debug\CBox.csproj.GenerateResource.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\CBox\CBox\obj\Debug\CBox.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\CBox\CBox\obj\Debug\CBox.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\CBox\CBox\obj\Debug\CBox.pdb
