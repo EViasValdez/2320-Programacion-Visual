@@ -41,6 +41,6 @@ public class Triangulo extends Figura {
     }
     public double Area(double Base, double Altura)
     {
-        return (Base * Altura ) / 2;
+        return (Base * Altura) / 2;
     }
 }
