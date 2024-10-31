@@ -12,11 +12,11 @@ import javax.swing.JOptionPane;
  * @author EViasValdez
  */
 
-public class Jpwf extends javax.swing.JFrame {
+public class JPasswordField extends javax.swing.JFrame {
     /**
      * Creates new form Jpwf
      */
-    public Jpwf() {
+    public JPasswordField() {
         initComponents();
 
         getContentPane().setBackground(new java.awt.Color(255, 157, 138));
@@ -154,20 +154,21 @@ public class Jpwf extends javax.swing.JFrame {
                 }
             }
         } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(Jpwf.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(JPasswordField.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(Jpwf.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(JPasswordField.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(Jpwf.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(JPasswordField.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(Jpwf.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(JPasswordField.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
+        //</editor-fold>
         //</editor-fold>
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new Jpwf().setVisible(true);
+                new JPasswordField().setVisible(true);
             }
         });
     }
