@@ -51,7 +51,7 @@ Prueba de la utilización del ComboBox.
 
 ## ● Unidad 2 ●
 ###### JPasswordField - 00/07/20
-Utilización del JPasswordField.
+Utilización de un JPasswordField.
 
 <!----Separador---->
 
