@@ -86,9 +86,9 @@
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(51, 137);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox1.Size = new System.Drawing.Size(1073, 444);
             this.groupBox1.TabIndex = 3;
             this.groupBox1.TabStop = false;
@@ -97,7 +97,7 @@
             // btonsiguiente
             // 
             this.btonsiguiente.Location = new System.Drawing.Point(873, 332);
-            this.btonsiguiente.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btonsiguiente.Margin = new System.Windows.Forms.Padding(4);
             this.btonsiguiente.Name = "btonsiguiente";
             this.btonsiguiente.Size = new System.Drawing.Size(143, 76);
             this.btonsiguiente.TabIndex = 12;
@@ -108,7 +108,7 @@
             // btondatos
             // 
             this.btondatos.Location = new System.Drawing.Point(704, 332);
-            this.btondatos.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btondatos.Margin = new System.Windows.Forms.Padding(4);
             this.btondatos.Name = "btondatos";
             this.btondatos.Size = new System.Drawing.Size(143, 76);
             this.btondatos.TabIndex = 11;
@@ -122,7 +122,7 @@
             this.btnregistrar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnregistrar.Image = global::Escuela2.Properties.Resources.registrarse;
             this.btnregistrar.Location = new System.Drawing.Point(781, 239);
-            this.btnregistrar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnregistrar.Margin = new System.Windows.Forms.Padding(4);
             this.btnregistrar.Name = "btnregistrar";
             this.btnregistrar.Size = new System.Drawing.Size(157, 86);
             this.btnregistrar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -139,7 +139,7 @@
             this.Horas,
             this.Creditos});
             this.dgvinfo.Location = new System.Drawing.Point(44, 226);
-            this.dgvinfo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dgvinfo.Margin = new System.Windows.Forms.Padding(4);
             this.dgvinfo.Name = "dgvinfo";
             this.dgvinfo.RowHeadersWidth = 51;
             this.dgvinfo.Size = new System.Drawing.Size(591, 185);
@@ -177,7 +177,7 @@
             // 
             this.textBox3.Enabled = false;
             this.textBox3.Location = new System.Drawing.Point(251, 169);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox3.Margin = new System.Windows.Forms.Padding(4);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(387, 26);
             this.textBox3.TabIndex = 8;
@@ -197,7 +197,7 @@
             "9",
             "10"});
             this.cbcreditos.Location = new System.Drawing.Point(663, 102);
-            this.cbcreditos.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbcreditos.Margin = new System.Windows.Forms.Padding(4);
             this.cbcreditos.Name = "cbcreditos";
             this.cbcreditos.Size = new System.Drawing.Size(51, 28);
             this.cbcreditos.TabIndex = 7;
@@ -233,7 +233,7 @@
             "2",
             "1"});
             this.cbhoras.Location = new System.Drawing.Point(325, 106);
-            this.cbhoras.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbhoras.Margin = new System.Windows.Forms.Padding(4);
             this.cbhoras.Name = "cbhoras";
             this.cbhoras.Size = new System.Drawing.Size(52, 28);
             this.cbhoras.TabIndex = 4;
@@ -241,7 +241,7 @@
             // txbmateria
             // 
             this.txbmateria.Location = new System.Drawing.Point(663, 52);
-            this.txbmateria.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txbmateria.Margin = new System.Windows.Forms.Padding(4);
             this.txbmateria.Name = "txbmateria";
             this.txbmateria.Size = new System.Drawing.Size(132, 26);
             this.txbmateria.TabIndex = 3;
@@ -249,7 +249,7 @@
             // txbxidmateria
             // 
             this.txbxidmateria.Location = new System.Drawing.Point(209, 55);
-            this.txbxidmateria.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txbxidmateria.Margin = new System.Windows.Forms.Padding(4);
             this.txbxidmateria.Name = "txbxidmateria";
             this.txbxidmateria.Size = new System.Drawing.Size(183, 26);
             this.txbxidmateria.TabIndex = 2;
@@ -279,7 +279,7 @@
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.pictureBox2.Image = global::Escuela2.Properties.Resources.logo_estado;
             this.pictureBox2.Location = new System.Drawing.Point(967, 15);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(157, 101);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -291,7 +291,7 @@
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.pictureBox1.Image = global::Escuela2.Properties.Resources.logo_upt;
             this.pictureBox1.Location = new System.Drawing.Point(51, 15);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(157, 101);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -309,8 +309,9 @@
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "VentanaMateria";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Materia";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
