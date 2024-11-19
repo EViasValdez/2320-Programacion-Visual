@@ -59,7 +59,7 @@ Utilización de un JPasswordField.
 Tercer trabajo que utiliza elementos de ComboBox.
 
 ## ● Unidad 3 ●
-###### Escuela2 - 12, 20/06/20
+###### Escuela2, 20/06/20
 Programa de registro y consulta de alumnos de la universidad, programado en Windows Forms (C#).
 
 <!----Separador---->
