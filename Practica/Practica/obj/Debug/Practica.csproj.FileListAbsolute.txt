@@ -1,13 +1,3 @@
-C:\Users\valde\source\repos\Practica\Practica\bin\Debug\Practica.exe.config
-C:\Users\valde\source\repos\Practica\Practica\bin\Debug\Practica.exe
-C:\Users\valde\source\repos\Practica\Practica\bin\Debug\Practica.pdb
-C:\Users\valde\source\repos\Practica\Practica\obj\Debug\Practica.csprojAssemblyReference.cache
-C:\Users\valde\source\repos\Practica\Practica\obj\Debug\Practica.Form1.resources
-C:\Users\valde\source\repos\Practica\Practica\obj\Debug\Practica.Properties.Resources.resources
-C:\Users\valde\source\repos\Practica\Practica\obj\Debug\Practica.csproj.GenerateResource.cache
-C:\Users\valde\source\repos\Practica\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cache
-C:\Users\valde\source\repos\Practica\Practica\obj\Debug\Practica.exe
-C:\Users\valde\source\repos\Practica\Practica\obj\Debug\Practica.pdb
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\Practica\Practica\bin\Debug\Practica.exe.config
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\Practica\Practica\bin\Debug\Practica.exe
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\Practica\Practica\bin\Debug\Practica.pdb
