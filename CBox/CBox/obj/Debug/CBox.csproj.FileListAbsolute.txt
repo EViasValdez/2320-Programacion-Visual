@@ -1,13 +1,3 @@
-C:\Users\valde\source\repos\cbox\cbox\bin\Debug\cbox.exe.config
-C:\Users\valde\source\repos\cbox\cbox\bin\Debug\cbox.exe
-C:\Users\valde\source\repos\cbox\cbox\bin\Debug\cbox.pdb
-C:\Users\valde\source\repos\cbox\cbox\obj\Debug\cbox.csprojAssemblyReference.cache
-C:\Users\valde\source\repos\cbox\cbox\obj\Debug\cbox.Form1.resources
-C:\Users\valde\source\repos\cbox\cbox\obj\Debug\cbox.Properties.Resources.resources
-C:\Users\valde\source\repos\cbox\cbox\obj\Debug\cbox.csproj.GenerateResource.cache
-C:\Users\valde\source\repos\cbox\cbox\obj\Debug\cbox.csproj.CoreCompileInputs.cache
-C:\Users\valde\source\repos\cbox\cbox\obj\Debug\cbox.exe
-C:\Users\valde\source\repos\cbox\cbox\obj\Debug\cbox.pdb
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\cbox\cbox\bin\Debug\cbox.exe.config
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\cbox\cbox\bin\Debug\cbox.exe
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Programacion-Visual\cbox\cbox\bin\Debug\cbox.pdb
