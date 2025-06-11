@@ -25,3 +25,4 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Escuela2\Escuela2
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Escuela2\Escuela2\obj\Debug\Escuela2.csproj.CoreCompileInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Escuela2\Escuela2\obj\Debug\Escuela2.exe
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Escuela2\Escuela2\obj\Debug\Escuela2.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Escuela2\Escuela2\obj\Debug\Escuela2.exe.config

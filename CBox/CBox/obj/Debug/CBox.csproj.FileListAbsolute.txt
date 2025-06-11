@@ -19,3 +19,4 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\CBox\CBox\obj\Deb
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\CBox\CBox\obj\Debug\CBox.csproj.CoreCompileInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\CBox\CBox\obj\Debug\CBox.exe
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\CBox\CBox\obj\Debug\CBox.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\CBox\CBox\obj\Debug\CBox.exe.config

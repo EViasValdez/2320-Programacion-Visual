@@ -19,3 +19,4 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Practica\Practica
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Practica\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Practica\Practica\obj\Debug\Practica.exe
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Practica\Practica\obj\Debug\Practica.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Programacion-Visual\Practica\Practica\obj\Debug\Practica.exe.config
