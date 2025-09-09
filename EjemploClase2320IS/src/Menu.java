@@ -37,8 +37,8 @@ public class Menu {
                 Triangulo1.SetBase(Leer.nextInt());
                 System.out.println("Ingresa la altura del triangulo");
                 Triangulo1.SetAltura(Leer.nextInt());
+                
                 // Se manda a llamar al método "Perímetro".
-
                 double x = Triangulo1.Perimetro (Triangulo1.GetBase());
                 System.out.println("El Perimetro es: " + x);
 
