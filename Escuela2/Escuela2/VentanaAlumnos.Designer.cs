@@ -188,13 +188,13 @@
             "Guerrero",
             "Hidalgo",
             "Jalisco",
-            "Michoacán",
+            "Michoacan",
             "Morelos",
             "Nayarit",
             "Nuevo León",
             "Oaxaca",
             "Puebla",
-            "Querétaro",
+            "Queretaro",
             "Quintana Roo",
             "San Luis Potosí",
             "Sinaloa",
@@ -203,7 +203,7 @@
             "Tamaulipas",
             "Tlaxcala",
             "Veracruz",
-            "Yucatán",
+            "Yucatan",
             "Zacatecas"});
             this.entidad.Location = new System.Drawing.Point(711, 169);
             this.entidad.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);

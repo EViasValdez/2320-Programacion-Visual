@@ -2,7 +2,7 @@ public class Figura {
     private String Nombre;
     private int NumLados;
 
-    // Constructor vacio.
+    // Constructor vació.
     public Figura()
     {
         this.Nombre = null;

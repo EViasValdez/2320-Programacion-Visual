@@ -25,8 +25,8 @@ namespace Ejercicios
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Esto es una prueba para la Materia de Programación visual");
-            MessageBox.Show("Hecho por Eduardo Viñas Valdez del Grupo 2320 - IS");
+            MessageBox.Show("Esto es una prueba para la materia de Programación visual");
+            MessageBox.Show("Hecho por Eduardo Viñas Valdez del grupo 2320 - IS");
         }
     }
 }
