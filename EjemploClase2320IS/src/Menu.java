@@ -18,16 +18,16 @@ public class Menu {
     public void menu1()
     {
         System.out.println("MENU");
-        System.out.println("Opcion 1: Calculo de perimetro y area de triangulo");
-        System.out.println("Opcion 2: Calculo de perimetro y area de cuadrado");
-        System.out.println("Opcion 3: Calculo de perimetro y area de rectángulo");
+        System.out.println("Opción 1: Calculo de perímetro y area de triangulo");
+        System.out.println("Opción 2: Calculo de perímetro y area de cuadrado");
+        System.out.println("Opción 3: Calculo de perímetro y area de rectángulo");
         Opcion = Leer.nextInt();
 
         switch (Opcion)
         {
             case 1:
                 Triangulo Triangulo1 = new Triangulo();
-                System.out.println("Calculo de Perímetro del triangulo");
+                System.out.println("Calculo de perímetro del triangulo");
                 Leer.nextLine();
                 System.out.println("Nombre de la figura");
                 Triangulo1.SetNombre(Leer.nextLine());
@@ -40,7 +40,7 @@ public class Menu {
                 
                 // Se manda a llamar al método "Perímetro".
                 double x = Triangulo1.Perimetro (Triangulo1.GetBase());
-                System.out.println("El Perimetro es: " + x);
+                System.out.println("El perímetro es: " + x);
 
                 System.out.println("El area es : " + Triangulo1.Area(Triangulo1.GetBase(),Triangulo1.GetAltura()));
             break;
