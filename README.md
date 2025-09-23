@@ -1,4 +1,4 @@
-# Programacion visual
+# Programación visual
 
 <!----Notas---->
 **Notas**
