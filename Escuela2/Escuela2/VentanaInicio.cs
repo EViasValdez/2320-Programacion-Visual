@@ -17,10 +17,6 @@ namespace Escuela2
         {
             InitializeComponent();
         }
-        private void Inicio_Load(object sender, EventArgs e)
-        {
-
-        }
         private void button1_Click(object sender, EventArgs e)
         {
             if (tbxusuario.Text.Equals("Usuario") && txbcontraseña.Text == ("1234"))
