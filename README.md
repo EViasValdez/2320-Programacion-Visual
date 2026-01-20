@@ -1,7 +1,7 @@
 # Programación visual
 
 <!----Descripción---->
-Por ser escrita.
+La mayoría de programas que se ven en este repositorio son tanto de Java Swing como Windows Forms.
 <!----Separador de la descripción ---->
 
 <!----Notas---->
