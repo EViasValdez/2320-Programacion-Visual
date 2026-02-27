@@ -18,7 +18,6 @@ La mayoría de programas que se ven en este repositorio son tanto de Java Swing 
 
 <!----Directorio con descripción de los programas---->
 # Descripción de los programas
-
 ## ● Unidad 1 ●
 ###### Ejemplo_clase 2320is - 13/05/20
 Cálculo del área de varias figuras.
