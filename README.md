@@ -13,7 +13,7 @@ La mayoría de programas que se ven en este repositorio son tanto de Java Swing 
 
 **- El framework de .NET utilizado para programas con Windows Forms es la version 4.8 cambiada de la version 4.7 en la que estaban los documentos originales.**
 
-**- Logre quitar los eventos que varios labels contenían algunos programas y que no estaban siendo utilizados, especialmente en el programa Escuela2, esto también aplica a otros programas.**
+**- Logre quitar los eventos que varios labels contenían algunos programas y que no estaban siendo utilizados, especialmente en el programa Escuela2.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
