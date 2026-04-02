@@ -67,6 +67,6 @@ Programa de registro y consulta de alumnos de la universidad, programado en Wind
 <!----Separador---->
 
 ###### PracticaUsoDeTablas - 00/08/20
-Uso de tablas en un programa.
+Utilización de tablas en un programa.
 
 <!----Separador del directorio con ubicación de archivos---->
