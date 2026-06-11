@@ -63,7 +63,7 @@ namespace Escuela2
 
         public override string ToString()
         {
-            return "ALUMNO: \n " + "Matricula: " + mat + "\n" + "Nombre: " + nom + "\n" + "Edad: " + edad + "\n" +
+            return "Alumno: \n " + "Matricula: " + mat + "\n" + "Nombre: " + nom + "\n" + "Edad: " + edad + "\n" +
                    "Sexo: " + sex + "\n" + "Teléfono: " + telf + "\n" + "Entidad de nacimiento: " + entid;
         }
     }

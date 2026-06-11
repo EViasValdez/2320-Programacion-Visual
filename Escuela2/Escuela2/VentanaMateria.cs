@@ -40,7 +40,7 @@ namespace Escuela2
             {
                 enlazar_clase();
 
-                MessageBox.Show("Datos guardados en clase materias");
+                MessageBox.Show("Datos guardados en la clase Materias");
 
                 txbxidmateria.Text = " ";
                 txbmateria.Text = " ";
