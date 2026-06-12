@@ -50,11 +50,13 @@
             this.label2 = new System.Windows.Forms.Label();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.PanelMateria = new System.Windows.Forms.Panel();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnregistrar)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvinfo)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.PanelMateria.SuspendLayout();
             this.SuspendLayout();
             // 
             // label1
@@ -62,7 +64,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Verdana", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(253, 49);
+            this.label1.Location = new System.Drawing.Point(286, 62);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(622, 36);
@@ -85,18 +87,18 @@
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox1.Location = new System.Drawing.Point(51, 137);
+            this.groupBox1.Location = new System.Drawing.Point(13, 138);
             this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
-            this.groupBox1.Size = new System.Drawing.Size(1073, 444);
+            this.groupBox1.Size = new System.Drawing.Size(1130, 441);
             this.groupBox1.TabIndex = 3;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Registro de la materia";
             // 
             // btonsiguiente
             // 
-            this.btonsiguiente.Location = new System.Drawing.Point(873, 332);
+            this.btonsiguiente.Location = new System.Drawing.Point(974, 343);
             this.btonsiguiente.Margin = new System.Windows.Forms.Padding(4);
             this.btonsiguiente.Name = "btonsiguiente";
             this.btonsiguiente.Size = new System.Drawing.Size(143, 76);
@@ -107,7 +109,7 @@
             // 
             // btondatos
             // 
-            this.btondatos.Location = new System.Drawing.Point(704, 332);
+            this.btondatos.Location = new System.Drawing.Point(823, 343);
             this.btondatos.Margin = new System.Windows.Forms.Padding(4);
             this.btondatos.Name = "btondatos";
             this.btondatos.Size = new System.Drawing.Size(143, 76);
@@ -121,7 +123,7 @@
             this.btnregistrar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.btnregistrar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnregistrar.Image = global::Escuela2.Properties.Resources.registrarse;
-            this.btnregistrar.Location = new System.Drawing.Point(781, 239);
+            this.btnregistrar.Location = new System.Drawing.Point(895, 202);
             this.btnregistrar.Margin = new System.Windows.Forms.Padding(4);
             this.btnregistrar.Name = "btnregistrar";
             this.btnregistrar.Size = new System.Drawing.Size(157, 86);
@@ -138,11 +140,11 @@
             this.Materia,
             this.Horas,
             this.Creditos});
-            this.dgvinfo.Location = new System.Drawing.Point(44, 226);
+            this.dgvinfo.Location = new System.Drawing.Point(8, 202);
             this.dgvinfo.Margin = new System.Windows.Forms.Padding(4);
             this.dgvinfo.Name = "dgvinfo";
             this.dgvinfo.RowHeadersWidth = 51;
-            this.dgvinfo.Size = new System.Drawing.Size(591, 185);
+            this.dgvinfo.Size = new System.Drawing.Size(807, 217);
             this.dgvinfo.TabIndex = 9;
             // 
             // Id_materia
@@ -176,7 +178,7 @@
             // textBox3
             // 
             this.textBox3.Enabled = false;
-            this.textBox3.Location = new System.Drawing.Point(251, 169);
+            this.textBox3.Location = new System.Drawing.Point(279, 149);
             this.textBox3.Margin = new System.Windows.Forms.Padding(4);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(387, 26);
@@ -196,15 +198,16 @@
             "8",
             "9",
             "10"});
-            this.cbcreditos.Location = new System.Drawing.Point(663, 102);
+            this.cbcreditos.Location = new System.Drawing.Point(641, 103);
             this.cbcreditos.Margin = new System.Windows.Forms.Padding(4);
             this.cbcreditos.Name = "cbcreditos";
-            this.cbcreditos.Size = new System.Drawing.Size(51, 28);
+            this.cbcreditos.Size = new System.Drawing.Size(108, 28);
             this.cbcreditos.TabIndex = 7;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
+            this.label5.ForeColor = System.Drawing.Color.White;
             this.label5.Location = new System.Drawing.Point(568, 106);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
@@ -215,7 +218,8 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(568, 55);
+            this.label4.ForeColor = System.Drawing.Color.White;
+            this.label4.Location = new System.Drawing.Point(568, 61);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(65, 20);
@@ -232,18 +236,18 @@
             "3",
             "2",
             "1"});
-            this.cbhoras.Location = new System.Drawing.Point(325, 106);
+            this.cbhoras.Location = new System.Drawing.Point(282, 90);
             this.cbhoras.Margin = new System.Windows.Forms.Padding(4);
             this.cbhoras.Name = "cbhoras";
-            this.cbhoras.Size = new System.Drawing.Size(52, 28);
+            this.cbhoras.Size = new System.Drawing.Size(110, 28);
             this.cbhoras.TabIndex = 4;
             // 
             // txbmateria
             // 
-            this.txbmateria.Location = new System.Drawing.Point(663, 52);
+            this.txbmateria.Location = new System.Drawing.Point(641, 58);
             this.txbmateria.Margin = new System.Windows.Forms.Padding(4);
             this.txbmateria.Name = "txbmateria";
-            this.txbmateria.Size = new System.Drawing.Size(132, 26);
+            this.txbmateria.Size = new System.Drawing.Size(270, 26);
             this.txbmateria.TabIndex = 3;
             // 
             // txbxidmateria
@@ -257,7 +261,8 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(40, 110);
+            this.label3.ForeColor = System.Drawing.Color.White;
+            this.label3.Location = new System.Drawing.Point(40, 93);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(234, 20);
@@ -267,6 +272,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(40, 55);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
@@ -278,7 +284,7 @@
             // 
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.pictureBox2.Image = global::Escuela2.Properties.Resources.logo_estado;
-            this.pictureBox2.Location = new System.Drawing.Point(967, 15);
+            this.pictureBox2.Location = new System.Drawing.Point(986, 29);
             this.pictureBox2.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(157, 101);
@@ -290,7 +296,7 @@
             // 
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.pictureBox1.Image = global::Escuela2.Properties.Resources.logo_upt;
-            this.pictureBox1.Location = new System.Drawing.Point(51, 15);
+            this.pictureBox1.Location = new System.Drawing.Point(13, 29);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(157, 101);
@@ -298,16 +304,24 @@
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
             // 
+            // PanelMateria
+            // 
+            this.PanelMateria.Controls.Add(this.pictureBox2);
+            this.PanelMateria.Controls.Add(this.groupBox1);
+            this.PanelMateria.Controls.Add(this.pictureBox1);
+            this.PanelMateria.Controls.Add(this.label1);
+            this.PanelMateria.Location = new System.Drawing.Point(2, 0);
+            this.PanelMateria.Name = "PanelMateria";
+            this.PanelMateria.Size = new System.Drawing.Size(1159, 595);
+            this.PanelMateria.TabIndex = 4;
+            // 
             // VentanaMateria
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(144)))), ((int)(((byte)(46)))));
-            this.ClientSize = new System.Drawing.Size(1173, 623);
-            this.Controls.Add(this.groupBox1);
-            this.Controls.Add(this.pictureBox2);
-            this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.label1);
+            this.ClientSize = new System.Drawing.Size(1159, 593);
+            this.Controls.Add(this.PanelMateria);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "VentanaMateria";
@@ -319,8 +333,9 @@
             ((System.ComponentModel.ISupportInitialize)(this.dgvinfo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.PanelMateria.ResumeLayout(false);
+            this.PanelMateria.PerformLayout();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -347,5 +362,6 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button btonsiguiente;
         private System.Windows.Forms.Button btondatos;
+        private System.Windows.Forms.Panel PanelMateria;
     }
 }

@@ -35,7 +35,9 @@
             this.tbxusuario = new System.Windows.Forms.TextBox();
             this.txbcontraseña = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.PanelInicio = new System.Windows.Forms.Panel();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.PanelInicio.SuspendLayout();
             this.SuspendLayout();
             // 
             // pictureBox1
@@ -44,10 +46,10 @@
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox1.Image = global::Escuela2.Properties.Resources.foto_edi_1_4_;
-            this.pictureBox1.Location = new System.Drawing.Point(16, 15);
+            this.pictureBox1.Location = new System.Drawing.Point(9, 4);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(1034, 243);
+            this.pictureBox1.Size = new System.Drawing.Size(818, 188);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -56,7 +58,8 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(141, 346);
+            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.Location = new System.Drawing.Point(13, 222);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(177, 25);
@@ -67,7 +70,8 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(141, 404);
+            this.label2.ForeColor = System.Drawing.Color.White;
+            this.label2.Location = new System.Drawing.Point(13, 260);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(77, 25);
@@ -77,7 +81,7 @@
             // tbxusuario
             // 
             this.tbxusuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbxusuario.Location = new System.Drawing.Point(533, 342);
+            this.tbxusuario.Location = new System.Drawing.Point(427, 217);
             this.tbxusuario.Margin = new System.Windows.Forms.Padding(4);
             this.tbxusuario.Name = "tbxusuario";
             this.tbxusuario.Size = new System.Drawing.Size(400, 30);
@@ -86,7 +90,7 @@
             // txbcontraseña
             // 
             this.txbcontraseña.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txbcontraseña.Location = new System.Drawing.Point(533, 400);
+            this.txbcontraseña.Location = new System.Drawing.Point(427, 255);
             this.txbcontraseña.Margin = new System.Windows.Forms.Padding(4);
             this.txbcontraseña.Name = "txbcontraseña";
             this.txbcontraseña.Size = new System.Drawing.Size(400, 30);
@@ -95,7 +99,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(905, 495);
+            this.button1.Location = new System.Drawing.Point(698, 317);
             this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(129, 44);
@@ -104,18 +108,26 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // PanelInicio
+            // 
+            this.PanelInicio.Controls.Add(this.pictureBox1);
+            this.PanelInicio.Controls.Add(this.button1);
+            this.PanelInicio.Controls.Add(this.label1);
+            this.PanelInicio.Controls.Add(this.txbcontraseña);
+            this.PanelInicio.Controls.Add(this.label2);
+            this.PanelInicio.Controls.Add(this.tbxusuario);
+            this.PanelInicio.Location = new System.Drawing.Point(0, -1);
+            this.PanelInicio.Name = "PanelInicio";
+            this.PanelInicio.Size = new System.Drawing.Size(839, 390);
+            this.PanelInicio.TabIndex = 6;
+            // 
             // VentanaInicio
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(144)))), ((int)(((byte)(46)))));
-            this.ClientSize = new System.Drawing.Size(1067, 554);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.txbcontraseña);
-            this.Controls.Add(this.tbxusuario);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.pictureBox1);
+            this.ClientSize = new System.Drawing.Size(837, 386);
+            this.Controls.Add(this.PanelInicio);
             this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(4);
@@ -123,8 +135,9 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Universidad Politecnica De Tecamac";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.PanelInicio.ResumeLayout(false);
+            this.PanelInicio.PerformLayout();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -136,5 +149,6 @@
         private System.Windows.Forms.TextBox tbxusuario;
         private System.Windows.Forms.TextBox txbcontraseña;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Panel PanelInicio;
     }
 }
