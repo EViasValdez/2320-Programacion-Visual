@@ -62,7 +62,7 @@ Tercer trabajo que utiliza elementos de ComboBox.
 
 ## ● Unidad 3 ●
 ###### Escuela2, 20/06/20
-Programa de registro y consulta de alumnos de la universidad, programado en Windows Forms (C#).
+Programa de registro y consulta de alumnos de la universidad, programado en Windows Forms.
 
 <!----Separador---->
 
